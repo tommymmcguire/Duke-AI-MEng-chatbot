@@ -1,0 +1,1175 @@
+Duke's AI Master of Engineering
+
+
+
+
+
+
+
+
+Duke's program is recognized as one of the top applied AI/ML graduate programs in the world
+
+Our Master of Engineering in Artificial Intelligence for Product Innovation students develop strong technical skills in AI and machine learning coupled with a deep understanding of how to design and build AI-powered software products.
+
+Graduates go on 
+to work in leading companies
+ solving challenging problems across many industries—including tech, healthcare, energy, retail, transportation, and finance. Some of our students go on to found their own entrepreneurial ventures.
+
+At Duke, you'll learn to:
+
+
+Design and develop machine learning systems for scale, security and usability
+
+Apply traditional machine learning and deep learning models to solve challenging problems across domains
+
+Build full-stack software applications integrating machine learning models utilizing the latest methods and technologies
+
+Design and deploy software applications in production
+
+
+This program may be for you if you have an educational or work background in engineering, science or technology and aspire to a career working hands-on in AI. See our 
+application requirements
+ for details.
+
+
+•  
+Industry-Connected Curriculum
+
+•  
+Flexibility and Options
+
+•  
+Curriculum Schedules
+
+•  
+Degree Requirements
+
+•  
+Compare Online and On-Campus
+
+•  
+Cost to Attend and More
+
+•  
+Join our Mailing List
+
+
+
+Industry-connected Curriculum
+
+This degree's 
+core curriculum
+ was developed in collaboration with the industry.
+
+
+Build a personal portfolio
+ of real-world, hands-on AI and machine-learning projects
+
+Receive individual advising
+, academic and career, from outstanding, world-class faculty
+
+Be engaged with peers
+ from around the world as part of a small, intimate, and immersive cohort
+
+
+We prepare graduates who are ready to solve problems on the job, starting on Day 1.  
+
+Our curriculum covers the theory and application of AI and machine learning, heavily emphasizing hands-on learning via real-world problems and projects in each course.  
+
+Students also have two opportunities to work directly with industry leaders during the program: through the semester-long 
+industry project
+ and their summer internship.
+
+
+Flexibility and Options
+
+12 or 16 months on-campus or 24 months online
+
+Innovative and immersive, you can complete this Duke master's degree in 12 or 16 months on-campus, or online part-time in just 24 months.
+
+12-Month Accelerated Option
+
+Significantly more affordable 
+than a traditional master's program—in this option, pay tuition for only two (2) full semesters plus three (3) summer session credits.
+
+16-Month Standard Track
+
+Pursue this degree over three (3) full semesters plus the summer session—allowing you time to take additional electives and specialize. Students pursuing this path may take a partial or whole load of courses during their final semester.
+
+4+1: BSE+Master's Option for Duke Undergraduates
+
+Duke undergraduate students
+ can complete undergrad 
+and
+ this master's degree in just five (5) years.
+
+Scholarship opportunity:
+ The AI 4+1 BSE+Master's scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+
+MD+MEng in Artificial Intelligence Dual Degree
+
+Medical students at Duke can complete this degree during their third year. See 
+Duke MEDx website
+ and 
+School of Medicine bulletin
+ for details.
+
+Scholarship opportunity:
+ The MD+MEng AI scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+
+
+Curriculum Schedules
+
+The core of the curriculum follows a cohort-based course sequence
+
+On-Campus Accelerated Option: 12 Months
+
+
+
+
+Summer
+
+Fall
+
+Spring
+
+Summer
+
+
+
+
+Pre-requisite
+AIPI 503: 
+Python & Data Science Math Bootcamp
+
+
+AIPI 510: 
+Sourcing Data for Analytics
+
+MENG 540: 
+Management of High-tech Industries
+
+AIPI 560: 
+Legal, Societal & Ethical Implications of AI
+
+
+
+ 
+
+AIPI 520: 
+Modeling Process & Algorithms
+
+AIPI 540: 
+Deep Learning Applications
+
+AIPI 561: 
+Operationalizing AI (MLOps)
+
+
+
+AIPI Departmental Elective
+
+AIPI 549: 
+Industry Capstone Project
+
+Industry Internship or Project
+
+
+
+MENG 570: 
+Business Fundamentals for Engineers
+
+Technical Elective 1
+
+  
+
+
+
+AIPI 501: 
+Industry Seminar Series
+
+Technical Elective 2
+
+
+
+EGR 590: Career Strategy & Design
+
+ 
+
+
+
+
+On-Campus Standard Track: 16 Months
+
+
+
+
+Summer
+
+Fall 1
+
+Spring
+
+Summer
+
+Fall 2
+
+
+
+
+Pre-requisite—
+AIPI 503: 
+Python & Data Science Math Bootcamp 
+
+
+AIPI 510: 
+Sourcing Data for Analytics
+
+AIPI 540: 
+Deep Learning Applications
+
+AIPI 560: 
+Legal, Societal & Ethical Implications of AI
+
+AIPI Departmental Elective
+
+
+
+ 
+
+AIPI 520: 
+Modeling Process & Algorithms
+
+AIPI 549: 
+Industry Capstone Project
+
+AIPI 561: 
+Operationalizing AI (MLOps)
+
+Technical Elective 2
+
+
+
+MENG 570: 
+Business Fundamentals for Engineers
+
+MENG 540: 
+Management of High-Tech Industries
+
+Industry Internship or Project
+
+ 
+
+
+
+AIPI 501: 
+Industry Seminar Series
+
+Technical Elective 1
+
+  
+
+
+
+EGR 590: Career Strategy & Design
+
+ 
+
+
+
+
+Part-Time Online: 24 Months
+
+
+
+
+
+ Pre-Program
+
+
+
+Year 1
+
+
+
+
+
+Summer 
+
+
+
+Fall
+
+
+
+Spring
+
+
+
+Summer
+
+
+
+
+
+Pre-requisite
+AIPI 503: 
+Python & Data Science Math Bootcamp
+
+
+
+AIPI 510: 
+Sourcing Data for Analytics
+
+
+
+AIPI 520: 
+Modeling Process & Algorithms
+
+
+
+AIPI 540: 
+Deep Learning Applications
+
+
+
+
+
+ 
+
+
+
+MENG 570: 
+Business 
+Fundamentals for Engineers
+
+
+
+MENG 540: 
+Management of 
+High-Tech Industries
+
+
+
+ 
+
+
+
+
+
+AIPI 501: 
+Industry Seminar Series
+
+
+
+On-Campus
+Residency
+
+
+
+
+
+ 
+
+
+
+
+
+Year 2
+
+
+
+
+
+Fall
+
+
+
+Spring
+
+
+
+Summer
+
+
+
+
+
+AIPI 
+Departmental Elective
+
+
+
+AIPI 549: 
+Industry Capstone Project
+
+
+
+AIPI 560: 
+Legal, 
+Societal & Ethical Implications of AI
+
+
+
+
+
+Technical 
+Elective 1
+
+
+
+Technical 
+Elective 2
+
+
+
+AIPI 561: 
+
+Operationalizing 
+AI (MLOps)
+
+
+
+
+
+ 
+
+
+
+On-Campus Residency
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+Degree Requirements
+
+Pre-Program Bootcamp
+
+
+Summer Online Python & Data Science Math Boot Camp 
+More »
+
+
+10 Courses
+
+
+Four (4)
+ Technical AI/ML courses
+—a strong technical foundation
+
+Three (3)
+ Product Development courses
+—developed with Duke's Law School and Fuqua School of Business including the business, legal & ethical aspects of AI products
+
+Three (3)
+ Technical electives
+—specialize in preparation for your chosen career
+
+
+Browse course descriptions »
+
+2 Industry Experiences
+
+
+Industry project
+—design a solution to an authentic opportunity offered by a sponsoring organization
+
+A summer internship or industry project
+—gain industry experience
+
+
+More »
+
+Additional Requirements
+
+
+Learn from leaders building AI products during regular industry seminars
+
+Jump-start your professional development with our Career Strategy and Design workshop for 
+on-campus
+ students
+
+Meet peers and faculty during two (2) required residencies on the Duke campus for 
+online
+ students
+
+
+The choice of 
+online or on-campus
+ is up to you—all students take the same courses, learn from the same faculty, and earn the same Duke degree.
+
+
+Compare Online and On-Campus
+
+
+
+
+ Item
+
+Online (part-time)
+
+On-Campus (full-time)
+
+
+
+Time to Degree
+
+
+
+24 months
+
+
+
+
+
+12 months or 16 months
+
+
+
+
+
+Python & Data Science Math Boot Camp
+
+
+
+Online 4-week part-time
+
+
+
+
+
+Online 4-week part-time
+
+
+
+
+
+Class Experience
+
+
+
+Live and recorded classes
+
+Online interaction with faculty and peers
+
+
+
+
+
+Class attendance at Duke
+
+In-person and online interaction with faculty and peers
+
+
+
+
+
+Professional Development
+
+
+
+Two spring residences on-campus at Duke
+
+Industry seminar series
+
+
+
+
+
+Industry seminar series
+
+
+
+
+
+Academic Advising
+
+
+
+Online interaction with a faculty advisor
+
+In-person interaction during on-campus residencies
+
+
+
+
+
+In-person and online interaction with a faculty advisor
+
+
+
+
+
+Career Services & Professional Development
+
+
+
+Support from 
+career services professionals
+ specialized in assisting engineering master's students
+
+
+
+
+
+Support from 
+career services professionals
+ specialized in assisting engineering master's students
+
+6-week Career Strategy and Design workshop
+
+
+
+
+
+
+Cost of Attendance & More Details
+
+
+Campus Master's Program
+
+
+2024-2025 Campus Tuition, Fees, and Estimated Expenses
+
+Tuition for campus-based Duke Master of Engineering programs for the 2024-2025 academic year is $32,990 per semester taken at the university.
+
+Tuition for the Master of Engineering in AI over two semesters and a summer session would result in a total tuition cost of $75,877. The internship course 
+does not
+ incur tuition charges.
+
+
+
+
+
+Item
+
+
+
+Fall 2024
+
+
+
+Spring 2025
+
+
+
+Summer 2025
+
+
+
+
+
+Tuition*
+
+
+
+$32,990
+
+
+
+$32,990
+
+
+
+ $9,897
+
+
+
+
+
+Health Fee
+
+
+
+$487
+
+
+
+$487
+
+
+
+ $225
+
+
+
+
+
+Health Insurance
+
+
+
+$3,381
+**
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Graduate Student Activity Fee
+
+
+
+$18
+
+
+
+ $18 
+
+
+
+ 
+
+
+
+
+
+Graduate Student Service Fee
+
+
+
+$12 
+
+
+
+ $ 12 
+
+
+
+ 
+
+
+
+
+
+Transcript Fee
+
+
+
+$120 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+Recreation Fee
+
+
+
+$190
+
+
+
+ $190
+
+
+
+ 
+
+
+
+
+
+Room
+
+
+
+$6,008
+
+
+
+ $7,510
+
+
+
+ $4,506
+
+
+
+
+
+Board
+
+
+
+$1,880
+
+
+
+ $2,350
+
+
+
+ $1,410
+
+
+
+
+
+Books & Supplies
+
+
+
+$322
+
+
+
+ $322
+
+
+
+ $167 
+
+
+
+
+
+Local Transportation
+
+
+
+$904
+
+
+
+ $1,130
+
+
+
+ $678 
+
+
+
+
+
+Personal & Misc.
+
+
+
+$1,896
+
+
+
+ $2,370
+
+
+
+ $1,422
+
+
+
+
+
+Total Cost of Attendance per semester
+
+
+
+$48,208 
+
+
+
+ $47,379
+
+
+
+ $18,305
+
+
+
+
+
+Total Cost of Attendance per academic year
+
+
+
+ 
+
+
+
+$113,892
+
+
+ 
+
+
+
+
+*Tuition, fees, and estimates are subject to confirmation each May
+
+Duration
+
+
+The normal duration of the Master of Engineering in AI program is one year of study (2 semesters and a summer session); however, the program can be extended for an additional Fall semester to complete in 16 months. *The estimated tuition cost of the Extended Track is $85,774 - $95,671, depending on number of credits taken in the final semester.
+
+The normal load is four courses (12 units) per semester in the first year
+
+Tuition, fees, and expense estimates are subject to confirmation each May
+
+Purchase of health insurance is required unless you can show proof of comparable private insurance coverage
+
+
+
+Online Master's Program
+
+
+Tuition for online Duke Master of Engineering programs for the 2024-2025 academic year is $9,897 per course taken at the university.
+
+In general, completion of the 30 required credits over five semesters would result in a total tuition cost of $98,970. Please note that the internship courses do not incur tuition charges.
+
+2024-2025 Online Tuition, Fees, and Estimated Expenses
+
+
+
+
+Item
+
+
+Amount
+
+
+
+
+Tuition
+
+
+$98,970
+
+($19,794 per semester) 
+*
+
+
+
+
+Transcript Fee
+
+$120 
+*
+
+
+
+Books
+
+$644
+ *
+
+
+
+TOTAL
+
+$99,734
+
+
+
+Notes
+
+*
+ Students typically take two courses per semester. Tuition, fees, and estimates are subject to confirmation each May. Rates subject to change
+
+Also:
+
+
+Domestic students can estimate $438 in loan fees per semester if securing student loans.
+
+No tuition is charged for course credits received for the internship, internship assessment, or residency courses. There is a room and board fee associated with residency
+
+There is no charge for registration for students in Duke Master of Engineering programs.
+
+
+
+
+
+
+Transcript Fee
+
+All entering students will be charged a one-time mandatory fee of $120 for transcripts in the first semester. This fee entitles the student to an unlimited number of Duke transcripts.
+
+Payment of Accounts
+
+The 
+Office of the Bursar
+ will issue invoices to registered students for tuition, fees, and other charges approximately four to six weeks before the beginning of classes each semester. The total amount due on the invoice is payable by the invoice's late payment date, normally one week before the beginning of classes. A student is required to pay all invoices as presented and will be in default if the total amount is not paid in full by the due date. A student in default will not be allowed to receive a transcript of academic records or a diploma at graduation.
+
+Contact Duke's 
+Office of the Bursar
+ for:
+
+
+Monthly Payment Option
+
+Late Payment Charge
+
+Refunds for Withdrawal from School during fall and spring semesters
+
+
+
+Online Graduate Certificate Program
+
+
+Tuition
+
+Tuition for the 
+Graduate Certificate in AI Foundations for Product Innovation
+ in the 2024-2025 academic year is $8,364 per course.
+
+There are two semesters per academic year. Therefore, students typically take one course per semester. At current rates, completing the four required courses to earn a stand-alone online certificate would result in a total tuition cost of $33,456.
+
+Transcript Fee
+
+All entering students will be charged a one-time mandatory fee of $120 for transcripts in the first semester. This fee entitles the student to an unlimited number of Duke transcripts.
+
+Not Eligible for VA Benefits or Federal Student Aid
+
+These stand-alone online certificate programs are not eligible for VA benefits or federal student aid.
+
+Important Note for International Applicants
+
+Please Note:
+ This stand-alone online certificate program 
+does NOT
+ qualify students for U.S. visa sponsorship.
+
+Gainful Employment Disclosures*
+
+Program Length
+
+
+Typically 15 months for AI Foundations for Product Innovation Certificate (1 course per semester, including summer)
+
+
+Program Costs
+
+The amounts shown below include costs for the entire program, assuming normal time to completion. There may be additional costs for living expenses. Note that this information is subject to change:
+
+
+
+
+Item
+
+Amount
+
+
+
+Tuition
+
+$8,364 per 3-credit class, and a total of $33,456 for the certificate **
+
+
+
+Transcript Fee
+
+$120 **
+
+
+
+Books
+
+$322
+
+
+
+TOTAL
+
+$33,898
+
+
+
+
+Notes
+
+** Duke may change its tuition for each academic year, and this estimate is based on current academic year tuition charges
+
+
+
+
+
+Student Loans
+
+
+Information about average student debt, monthly debt expense and debt interest rate have been withheld since fewer than 10 students have completed this program
+
+
+Job Placement Rates
+
+
+We are not currently required to calculate a job placement rate for program completers
+
+Program graduates are employed in the following fields:
+
+Information Technology
+
+Manufacturing
+
+Science, Technology, Engineering, and Mathematics
+
+Transportation, Distribution, and Logistics
+
+
+
+
+
+The program does not meet any licensing requirements
+
+Additional Information—Date Created: 3/15/2021
+
+
+*
+ 
+These disclosures are required by the U.S. Department of Education
+
+For more information, please visit 
+meng.duke.edu »
+
+
+Financial Aid
+
+
+Limited merit-based financial aid is available to highly qualified candidates through academic scholarships emphasizing increasing diversity within the program. U.S. Citizens or Permanent Residents who are underrepresented minorities may receive up to 50 percent per year in tuition scholarships through our Diversity Scholarships. All applicants to the AI program are considered for available financial assistance at the time of program application.
+
+More information is available at 
+meng.duke.edu »
+
+
+Duke Undergrads: 4+1: BSE+Master's
+
+
+The Pratt School of Engineering's 4+1: BSE+Master option allows Duke students to earn an undergraduate degree and a master's in five years. Students may choose to start the Master of Engineering in Artificial Intelligence (AI MEng) during their undergraduate senior year.
+
+Students who receive admission to the AI MEng program through 4+1 may allocate up to four (4) graduate courses taken in their senior year toward Master of Engineering requirements. In addition, participating students may take graduate-level electives or AI MEng core courses in their senior year. This provides greater flexibility when scheduling the fifth year, and Duke 4+1 students are eligible for the AI MEng Duke 4+1 scholarship.
+
+Further details may be found on the 
+4+1: BSE+Master's webpage
+. To discuss AI MEng course options for senior year, contact program director Jon Reifschneider at 
+jon.reifschneider@duke.edu
+.
+
+
+
+Join Our Mailing List
+
+Sign up for timely information on upcoming events, deadlines, and tips on applying:
+
+Loading...
