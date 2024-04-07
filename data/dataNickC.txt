@@ -1,0 +1,810 @@
+Duke's AI Master of Engineering
+Duke's program is recognized as one of the top applied AI/ML graduate programs in the world
+
+Our Master of Engineering in Artificial Intelligence for Product Innovation students develop strong technical skills in AI and machine learning coupled with a deep understanding of how to design and build AI-powered software products.
+
+Graduates go on to work in leading companies solving challenging problems across many industries—including tech, healthcare, energy, retail, transportation, and finance. Some of our students go on to found their own entrepreneurial ventures.
+===
+At Duke, you'll learn to:
+
+Design and develop machine learning systems for scale, security and usability
+Apply traditional machine learning and deep learning models to solve challenging problems across domains
+Build full-stack software applications integrating machine learning models utilizing the latest methods and technologies
+Design and deploy software applications in production
+This program may be for you if you have an educational or work background in engineering, science or technology and aspire to a career working hands-on in AI. See our application requirements for details.
+
+===
+INDUSTRY-CONNECTED CURRICULUM
+This degree's core curriculum was developed in collaboration with the industry.
+
+Build a personal portfolio of real-world, hands-on AI and machine-learning projects
+Receive individual advising, academic and career, from outstanding, world-class faculty
+Be engaged with peers from around the world as part of a small, intimate, and immersive cohort
+We prepare graduates who are ready to solve problems on the job, starting on Day 1.  
+
+Our curriculum covers the theory and application of AI and machine learning, heavily emphasizing hands-on learning via real-world problems and projects in each course.  
+
+Students also have two opportunities to work directly with industry leaders during the program: through the semester-long industry project and their summer internship.
+===
+FLEXIBILITY AND OPTIONS
+12 or 16 months on-campus or 24 months online
+
+Innovative and immersive, you can complete this Duke master's degree in 12 or 16 months on-campus, or online part-time in just 24 months.
+
+12-Month Accelerated Option
+Significantly more affordable than a traditional master's program—in this option, pay tuition for only two (2) full semesters plus three (3) summer session credits.
+
+16-Month Standard Track
+Pursue this degree over three (3) full semesters plus the summer session—allowing you time to take additional electives and specialize. Students pursuing this path may take a partial or whole load of courses during their final semester.
+===
+FLEXIBILITY AND OPTIONS
+4+1: BSE+Master's Option for Duke Undergraduates
+Duke undergraduate students can complete undergrad and this master's degree in just five (5) years.
+
+Scholarship opportunity: The AI 4+1 BSE+Master's scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+
+MD+MEng in Artificial Intelligence Dual Degree
+Medical students at Duke can complete this degree during their third year. See Duke MEDx website and School of Medicine bulletin for details.
+
+Scholarship opportunity: The MD+MEng AI scholarship covers 20 percent of the costs. Eligibility and other conditions apply.
+===
+CURRICULUM SCHEDULES
+The core of the curriculum follows a cohort-based course sequence
+
+On-Campus Accelerated Option: 12 Months
+Summer:
+Pre-requisite
+AIPI 503: Python & Data Science Math Bootcamp
+
+Fall:
+AIPI 510: Sourcing Data for Analytics
+AIPI 520: Modeling Process & Algorithms
+AIPI Departmental Elective
+MENG 570: Business Fundamentals for Engineers
+AIPI 501: Industry Seminar Series
+EGR 590: Career Strategy & Design
+
+Spring:
+MENG 540: Management of High-tech Industries
+AIPI 540: Deep Learning Applications
+AIPI 549: Industry Capstone Project
+Technical Elective 1
+Technical Elective 2
+
+Summer II:
+AIPI 560: Legal, Societal & Ethical Implications of AI
+AIPI 561: Operationalizing AI (MLOps)
+Industry Internship or Project
+===
+CURRICULUM SCHEDULES
+The core of the curriculum follows a cohort-based course sequence
+On-Campus Standard Track: 16 Months
+
+Summer:
+Pre-requisite—
+AIPI 503: Python & Data Science Math Bootcamp 
+
+Fall 1:
+AIPI 510: Sourcing Data for Analytics
+AIPI 520: Modeling Process & Algorithms
+MENG 570: Business Fundamentals for Engineers
+AIPI 501: Industry Seminar Series
+EGR 590: Career Strategy & Design
+
+Spring:
+AIPI 540: Deep Learning Applications
+AIPI 549: Industry Capstone Project
+MENG 540: Management of High-Tech Industries
+Technical Elective 1
+
+Summer II:
+AIPI 560: Legal, Societal & Ethical Implications of AI
+AIPI 561: Operationalizing AI (MLOps)
+Industry Internship or Project
+
+Fall 2:
+AIPI Departmental Elective
+Technical Elective 2
+
+===
+CURRICULUM SCHEDULES
+The core of the curriculum follows a cohort-based course sequence
+Part-Time Online: 24 Months
+
+Summer:
+Pre-requisite
+AIPI 503: 
+Python & Data Science Math Bootcamp
+
+Fall:
+AIPI 510: 
+Sourcing Data for Analytics
+MENG 570: 
+Business
+Fundamentals for Engineers
+AIPI 501: 
+Industry Seminar Series
+
+Spring:
+AIPI 520: 
+Modeling Process & Algorithms
+
+MENG 540:
+Management of
+High-Tech Industries
+
+On-Campus
+Residency
+
+Summer II: 
+AIPI 540: 
+Deep Learning Applications
+
+Fall II: 
+AIPI
+Departmental Elective
+Technical
+Elective 1
+
+Spring II:
+AIPI 549: 
+Industry Capstone Project
+
+Technical
+Elective 2
+
+On-Campus Residency
+
+Summer III:
+AIPI 560: Legal,
+Societal & Ethical Implications of AI
+
+AIPI 561: 
+
+Operationalizing
+AI (MLOps)
+
+===
+DEGREE REQUIREMENTS
+Pre-Program Bootcamp
+Summer Online Python & Data Science Math Boot Camp More »
+10 Courses
+Four (4) Technical AI/ML courses—a strong technical foundation
+Three (3) Product Development courses—developed with Duke's Law School and Fuqua School of Business including the business, legal & ethical aspects of AI products
+Three (3) Technical electives—specialize in preparation for your chosen career
+Browse course descriptions » https://ai.meng.duke.edu/courses
+
+2 Industry Experiences
+Industry project—design a solution to an authentic opportunity offered by a sponsoring organization
+A summer internship or industry project—gain industry experience
+
+Additional Requirements
+Learn from leaders building AI products during regular industry seminars
+Jump-start your professional development with our Career Strategy and Design workshop for on-campus students
+Meet peers and faculty during two (2) required residencies on the Duke campus for online students
+===
+COMPARE ONLINE AND ON-CAMPUS
+Category : Online (Part-Time) | On-Campus (full-time)
+Time to Degree: 24 months | 12 months or 16 months
+Class Experience: Live and recorded classes Online interaction with faculty and peers | Class attendance at Duke In-person and online interaction with faculty and peers
+Professional Development: Two spring residences on-campus at Duke Industry seminar series | Industry seminar series
+Academic Advising: Online interaction with a faculty advisor In-person interaction during on-campus residencies | In-person and online interaction with a faculty advisor
+Career Services & Professional Development: Support from career services professionals specialized in assisting engineering master's students | Support from career services professionals specialized in assisting engineering master's students 6-week Career Strategy and Design workshop
+===
+COST OF ATTENDANCE & MORE DETAILS
+Campus Master's Program
+2024-2025 CAMPUS TUITION, FEES, AND ESTIMATED EXPENSES
+Tuition for campus-based Duke Master of Engineering programs for the 2024-2025 academic year is $32,990 per semester taken at the university.
+
+Tuition for the Master of Engineering in AI over two semesters and a summer session would result in a total tuition cost of $75,877. The internship course does not incur tuition charges.
+
+*Tuition, fees, and estimates are subject to confirmation each May
+
+Item : Fall 2024 | Spring 2025 | Summer 2025
+Tuition*: $32,990 | $32,990 | $3,987
+Health Fee: $487 | $487 | $225
+Health Insurance: $3,381 | ______ | ______
+Graduate Student Activity Fee: $18 | $18 | ______
+Graduate Student Service Fee: $12 | $12 | ______
+Transcript Fee: $120 | ____ | ______
+Recreation Fee: $190 | $190 | ______
+Room: $6008 | $7,510 | $4,506
+Board: $1880 | $2,350 | $1,410
+Books & Supplies: $322 | $322 | $167
+Local Transportation: $904 | $1,130 | $678
+Personal & Misc. : $1,896 | $2,370 | $1,422
+Total Cost: $48,208 | $47,379 | $18,305
+Total Cost of Attendance per Academic Year : ___ | $113,892 | ____
+
+===
+COST OF ATTENDANCE & MORE DETAILS
+Campus Master's Program
+DURATION
+The normal duration of the Master of Engineering in AI program is one year of study (2 semesters and a summer session); however, the program can be extended for an additional Fall semester to complete in 16 months. *The estimated tuition cost of the Extended Track is $85,774 - $95,671, depending on number of credits taken in the final semester.
+The normal load is four courses (12 units) per semester in the first year
+Tuition, fees, and expense estimates are subject to confirmation each May
+Purchase of health insurance is required unless you can show proof of comparable private insurance coverage
+
+===
+COST OF ATTENDANCE & MORE DETAILS
+Online Master's Program
+Tuition for online Duke Master of Engineering programs for the 2024-2025 academic year is $9,897 per course taken at the university.
+
+In general, completion of the 30 required credits over five semesters would result in a total tuition cost of $98,970. Please note that the internship courses do not incur tuition charges.
+
+2024-2025 ONLINE TUITION, FEES, AND ESTIMATED EXPENSES
+
+Item : Amount
+Tuition : $98,970 (19,794 per semester)
+Transcript Fee : $120
+Books: $644
+Total : $99,734
+* Students typically take two courses per semester. Tuition, fees, and estimates are subject to confirmation each May. Rates subject to change
+Also:
+
+Domestic students can estimate $438 in loan fees per semester if securing student loans.
+No tuition is charged for course credits received for the internship, internship assessment, or residency courses. There is a room and board fee associated with residency
+There is no charge for registration for students in Duke Master of Engineering programs.
+
+===
+COST OF ATTENDANCE & MORE DETAILS
+Online Master's Program
+TRANSCRIPT FEE
+All entering students will be charged a one-time mandatory fee of $120 for transcripts in the first semester. This fee entitles the student to an unlimited number of Duke transcripts.
+
+PAYMENT OF ACCOUNTS
+The Office of the Bursar will issue invoices to registered students for tuition, fees, and other charges approximately four to six weeks before the beginning of classes each semester. The total amount due on the invoice is payable by the invoice's late payment date, normally one week before the beginning of classes. A student is required to pay all invoices as presented and will be in default if the total amount is not paid in full by the due date. A student in default will not be allowed to receive a transcript of academic records or a diploma at graduation.
+
+Contact Duke's Office of the Bursar for:
+
+Monthly Payment Option
+Late Payment Charge
+Refunds for Withdrawal from School during fall and spring semesters
+
+===
+Financial Aid
+Limited merit-based financial aid is available to highly qualified candidates through academic scholarships emphasizing increasing diversity within the program. U.S. Citizens or Permanent Residents who are underrepresented minorities may receive up to 50 percent per year in tuition scholarships through our Diversity Scholarships. All applicants to the AI program are considered for available financial assistance at the time of program application.
+
+More information is available at meng.duke.edu »
+
+===
+Duke Undergrads: 4+1: BSE+Master's
+The Pratt School of Engineering's 4+1: BSE+Master option allows Duke students to earn an undergraduate degree and a master's in five years. Students may choose to start the Master of Engineering in Artificial Intelligence (AI MEng) during their undergraduate senior year.
+
+Students who receive admission to the AI MEng program through 4+1 may allocate up to four (4) graduate courses taken in their senior year toward Master of Engineering requirements. In addition, participating students may take graduate-level electives or AI MEng core courses in their senior year. This provides greater flexibility when scheduling the fifth year, and Duke 4+1 students are eligible for the AI MEng Duke 4+1 scholarship.
+
+Further details may be found on the 4+1: BSE+Master's webpage. To discuss AI MEng course options for senior year, contact program director Jon Reifschneider at jon.reifschneider@duke.edu.
+
+===
+The Duke Difference: AI and Machine Learning
+WHY JOIN DUKE AI?
+Duke's AI Master of Engineering develops technical leaders who are equipped to build our future through AI and machine learning. Students build strong technical skills together with an understanding of how to design and build software products, positioning them to build new AI products and systems that solve the challenging problems our world faces.  
+
+Our unique program differentiates itself through:
+
+A strong focus on applied machine learning and MLOps to solve real-world problems
+An experiential model of education where students learn by doing, building a portfolio of personal and team projects to show potential employers
+A heavy emphasis on industry collaboration, with students engaging with industry leaders during their capstone projects, industry seminars, and internships
+A small, intimate cohort and emphasis on small class sizes and close interaction between students and our leading faculty
+
+===
+WE WELCOME DIVERSE PARTICIPANTS
+The Duke AI program is designed for engineers and scientists from all regions of the world with a variety of technical and scientific backgrounds. We intentionally cultivate a diverse group of students passionate about several different fields and industries. Roughly half of our students join the program directly after their undergraduate studies, and the other half join after gaining work experience.
+
+Many students enter the program with a strong prior background in programming or software development, while others enter with less programming experience but stronger domain-specific expertise. The unique design of our program accommodates both types of participants.
+
+===
+A FLEXIBLE DEGREE DESIGNED FOR YOU
+On-campus or online
+
+Duke has you covered: Study on-campus or online. Start with the summer pre-program online data science and programming boot camp. Finish in as little as 12 months of full-time study through the accelerated course schedule, or stay for a third semester and focus on industry-oriented electives.
+
+===
+PARTNERED WITH INDUSTRY
+Duke's AI curriculum was created from scratch and designed with heavy input from AI leaders across industries.  
+
+Our faculty come with experience at the top of the tech industry and in successful startups prior to joining Duke.
+
+We work closely with industry partners who provide real-world examples for your Capstone Project experience, including some of the leading large techology, healthcare IT, and retail companies.
+GREAT GRADUATE OUTCOMES
+Duke’s Pratt School of Engineering is a vibrant teaching and research school set in one of the world's leading universities.  Our graduates are a global alumni network of leaders spanning multinational companies, small businesses, and high-growth startups.  
+
+Duke AI students go into some of the most in-demand and exciting job roles available, such as ML Engineers, AI Engineers, and Data Scientists. Our students join companies across a variety of industries who are leading the way in applying AI/ML to their businesses.
+
+===
+DUKE: A LEADER IN CREATING EDUCATIONAL PROGRAMS IN EMERGING FIELDS
+The Duke AI Master of Engineering program is a part of Duke Engineering's Institute for Enterprise Engineering, which provides high-impact professional education to meet fast-evolving industry needs. These programs draw on Duke Engineering’s research and educational strengths in:
+
+Computing Fundamentals
+AI and Machine Learning
+Cybersecurity
+FinTech, including Blockchain
+Engineering Management
+Learning opportunities are offered online and on-campus and include degree programs, graduate certificates, online credentials, and short courses. 
+
+We give working professionals and industry partners powerful tools to improve organizational performance and accelerate product innovation.
+===
+Career Services
+Preparing Master of Engineering students for success
+
+Master of Engineering students at Duke can take advantage of the university-wide programs, events and support provided by the Duke Career Center. They are also supported by a dedicated Duke Engineering Master's Career Services & Professional Development (CSPD) team housed within the Pratt School of Engineering.
+
+The CSPD prepares students for success in the world of work, particularly within technical companies.  Services provided by the team include:
+
+Individual and group coaching
+Workshops and events
+Networking opportunities
+Access to recruitment events
+Access to interview preparation and recruiting software platforms
+Additionally, the Master of Engineering in Artificial Intelligence program organizes its own interview preparation events throughout the year to prepare students for the unique aspects of ML and data science interviews.
+
+===
+Industry and Employer Relations
+Recruit or work with top talent skilled in solving problems using AI, machine learning and data analytics
+
+At Duke Engineering’s Master of Engineering in Artificial Intelligence program, we develop future technology leaders who can combine their domain expertise with an interdisciplinary set of skills in AI and machine learning to build and improve products and services.
+
+Building upon a strong engineering and science foundation, our students gain skills in three core competency areas:
+
+Theory and practice of AI and machine learning
+Business, legal and ethical context for developing new analytics products
+Specialized industry experience in applying AI via electives and capstone project
+We welcome organizations of all industries, types and sizes to engage with our talented students for both recruiting and to support our educational mission.
+
+
+===
+4+1
+
+Duke undergrads can earn a bachelor's degree and a Master of Engineering or Master of Engineering Management degree in just five years through Duke's progressive 4+1 Masters program. Students who are admitted as undergradautes get a head start in this accelerated program by taking graduate level courses during their senior year.
+
+To be admitted while an undergraduate, complete our online application as early as the spring of your junior year or as late as the spring of your senior year and indicate that you are a 4+1 candidate. See our tips on choosing when to apply.  An application fee waiver is available for Duke students, and Duke 4+1 applicants are not required to take the GRE.
+You can allocate up to four departmental graduate courses* taken in your senior year toward your MEng/MEM degree requirements using the Pratt Credit Transfer form. Transferred courses must fulfill MEng/MEM degree requirements in the major of interest. Note: Only the credits transfer, the grade remains on your undergraduate transcript and is part of your undergraduate GPA.
+You need to earn at least a B in each graduate level course for it to count toward your MEng/MEM degree.
+Graduate courses used for your MEng/MEM degree cannot be used for your undergraduate degree
+In order for students admitted as undergraduates to complete the program in only one additional year, you must complete the required internship the summer between your undergraduate degree and the start of your master's program at Duke.
+International 4+1 students are strongly encouraged to use Curricular Practical Training (CPT) for the summer internship, as the internship is a required component of the degree, and the CPT process can be completed more quickly than OPT for your undergraduate degree. If you have questions on CPT eligibility, we encourage you to contact Duke Visa Services. 
+4+1 students admitted during the undergraduate program may defer admission for up to three years. Students may request to transfer their admission to one of the Master of Engineering Online programs or the Master of Engineering Management Online program.
+
+NOTE
+* The transfer of credit requires approval of the Director of Master of Engineering Studies (DMS) for the major of interest/Director of the MEM program and the Associate Dean for Undergraduate Affairs. AB Duke scholars and other students on a case-by-case basis may be able to allocate up to six courses towards the MEng degree only. Graduate courses are listed in the 500s or above. 
+
+===
+When to Apply
+Early Admission for Undergraduates — You have three options
+Spring of Junior Year, for admission in Fall of Senior year
+Fall of Senior Year, for admission in Spring of Senior year
+Spring of Senior Year, for admission in Fall of Fifth year
+N o matter when you apply, you'll remain an undergraduate for four years before becoming a MEng/MEM student in the fifth year. That means that you should select your application term based on when you'll actually join the program after graduation, not when you'd like to take and MEng/EGRMGMT or departmental graduate courses you plan to transfer. For that reason, the application will choose summer term 1 for the year of your BSE graduation, but your application will be considered and a decision will be posted in the admission timeline you seek.
+
+Example: If you’d like a decision before you take the classes, apply using the deadlines the term in which you’ll take them. For example, if you want to take the classes in Spring, you'd apply using Spring admission deadlines to hear back by December 1 of your senior year.
+
+===
+Important Note
+4+1 students admitted to the MEng/MEM program while undergraduates remain an undergraduate for four years before becoming a MEng/MEM student in the fifth year. Typically, matriculation occurs in summer term 1 after the spring semester of the senior year, and students will complete the internship requirement within 1 year of matriculation. Students will be charged as undergraduates for the first four years and as MEng/MEM students for the fifth year. The MEng program charges tuition by semester, and payment by credit is not available in the fifth year. The MEM program charges 4+1 students by credit in the fifth year.
+
+All 4+1s should submit paperwork for the transfer of credits from the student's undergraduate program into the MEng/MEM program within the first semester of starting the program.
+
+In order to complete the program in only one additional year after being admitted as an undergraduate, a 4+1 must complete the required internship the summer between the undergraduate degree and the start of the MEng/MEM program. 4+1 students should seek approval from the department before beginning the internship.
+
+The MEng core courses/MEM(EGRMGMT) courses are available to undergraduates who have been admitted to the 4+1 program on a space available basis. After admission, 4+1 students work with our academic coordinator to receive permission numbers to allow registration for MENG/EGRMGMT courses while an undergraduate. Not all graduate level courses are available to undergraduates and permission numbers will only be provided for MENG/EGRMGMT courses. If a 4+1 undergraduate student desires to take graduate level electives classes that are not available to undergraduates, a 4+1 student should take these courses in the fifth year of study.
+
+Trinity students need to plan their undergraduate courses carefully to ensure they allow room in their schedule for graduate level courses in their senior year. Students without room in their senior year may require more than one additional year to complete the MEng degree – contact us for more information.
+
+Contact the admissions office for more information.
+
+===
+GRADUATE 4+1
+If you're a recent Duke graduate who has taken graduate engineering courses that weren't used for your Duke bachelor's degree, you may apply for 4+1 admission up to five years after graduation. 
+
+Details to Remember
+To be admitted as alumnus, complete our online application within five years of graduation, and indicate you a recent graduate (2018-2022 bachelor’s degree) of Duke University who plans to apply to the 4+1 program. An application fee waiver is available for Duke alumni, and Duke 4+1 applicants are not required to take the GRE
+You can allocate up to four departmental graduate courses* taken in your senior year toward your MEng/MEM degree requirements using the Pratt Credit Transfer form. Transferred courses must fulfill MEng/MEM degree requirements in the major of interest. Note: Only the credits transfer, the grade remains on your undergraduate transcript and is part of your undergraduate GPA
+You need to earn at least a B in each graduate level course for it to count toward your MEng/MEM degree
+Graduate courses used for your MEng/MEM degree cannot be used for your undergraduate degree
+Any Duke alumnus may apply for 4+1 up to five years after graduating from Duke's undergraduate program, and Duke offers several Master of Engineering Online programs as well as the Master of Engineering Management Online program
+NOTE
+*The transfer of credit requires approval of the Director of Master of Engineering Studies (DMS) for the major of interest/Director of the MEM program and the Associate Dean for Undergraduate Affairs. AB Duke scholars and other students on a case-by-case basis may be able to allocate up to six courses towards the degree. Graduate courses are listed in the 500s or above.
+
+===
+
+Important Notice
+Alumni 4+1s are charged as MEng/MEM students for the fifth year. The MEng program charges tuition by semester, and payment by credit is not available in the fifth year. The MEM program charges 4+1 students by credit in the fifth year.
+
+All 4+1s should submit paperwork for the transfer of credits from the student's undergraduate program into the MEng/MEM program within the first semester of starting the program.
+
+In order to complete the program in only one additional year, a 4+1 must complete the required internship. Alumni who are admitted may sometimes use work experience in lieu of the internship.
+
+Alumni without extraneous graduate courses year may require more than one additional year to complete the MEng degree – contact us for more information.
+Contact the admissions office for more information.
+
+===
+DUKE PHD STUDENTS IN ENGINEERING
+Students who received their PhD degree from the Pratt School of Engineering may also want to pursue a MEng degree to obtain the breadth found in the MEng core courses.
+
+To facilitate this, PhD students may utilize their PhD courses to fulfill the technical course requirements of the MEng degree (i.e., the eight noncore course requirements) if those courses meet the curricular requirements of the MEng major of interest. Thus, PhD students may obtain the MEng degree by adding the two MEng core courses to their coursework and fulfilling the internship requirements.
+
+Note that generally the student’s PhD research will not be acceptable as the internship experience for the concurrent MEng degree. Students must apply for the MEng Program independently from the PhD and must be enrolled in the MEng Program (i.e., dual enrolled in the MEng and PhD) before taking the MEng core courses. Students should register for these MEng core courses separately from their PhD courses under their MEng “bookbag” and will be billed for these courses separately from their PhD. Other MEng courses to be utilized to fulfill the MEng requirements may be taken at anytime while a PhD student, before or after enrolling in the MEng Program.
+
+Note that being accepted as a PhD student does not guarantee acceptance as an MEng student. Note that students will generally receive their MEng degree at the same time or after receiving their PhD. If a student does not obtain a PhD, only four of the technical courses taken as a PhD student may be applied to the MEng degree. The other four technical MEng course requirements and the MEng core courses must be taken after enrollment in the MEng Program.
+
+All PhD students should discuss their plans with their faculty advisor for their research program and with the DMS for their major of interest. When applying for the MEng degree, he/she should indicate they are already a PhD student and plan to do the MEng concurrently with his/her PhD.
+===
+DUKE MD STUDENTS
+MD-Master of Engineering Dual Degree Program
+
+MD candidates in Duke’s School of Medicine have the option of adding the Master of Engineering (MEng) degree in a 5-year program. Students spend four years (Years 1, 2, 4 and 5) in medical school to fulfill the MD curriculum requirements, and one year (Year 3) to take the required MEng courses. In the fourth year, students work on development of new technologies or engineering approaches (including optimization/system analysis or feasibility analysis, etc.) for improving human health and write a thesis, for which they will receive School of Medicine credit in fulfillment of their Third Year thesis requirement.
+
+School of Medicine Requirements
+The MD curriculum requirements for typical Years 1, 2, and 4 (Year 5 for dual students) remain unchanged by this program.
+
+School of Medicine Third Year thesis credit will be based on submission of a document whose rigor is consistent with current Third Year theses. As with all current Third Year theses, the thesis proposals will require Third Year School of Medicine approval. The thesis would consist of a detailed Business Plan, complete with extended Introduction (similar to the extended Introduction currently required of Third Year students who choose the manuscript or grant alternative theses) stating more thoroughly the human health need being addressed. The scope, subject, and outcomes of the thesis will be determined by the Engineering program of specialization in collaboration with the School of Medicine. A thesis alternative can be submitted in the form of a SBIR/STTR grant application since the grant thesis alternative is already an approved option offered to all Third Year medical students. At the discretion of and selected by the Third Year Committee, the thesis may be reviewed by faculty or other experts well versed in the specific technology field who are not on the Committee. These external reviews would be used by members of the Third Year Committee to grade the theses in order to ensure that the grading standards, rigor and criteria are consistent with current theses. The thesis may also be used to fulfill requirements for the MEng 550/551 courses.
+
+Pratt School of Engineering Requirements
+Master of Engineering students in all majors must complete 30 credits comprised of key program elements as follows:
+
+Core industry preparatory courses (6 credits)
+Departmental or interdisciplinary core courses (15 - 18 credits, varies by major)
+Technical electives in a concentrated area (6 - 9 credits, varies by major)
+Internship, Project, or Equivalent
+Additionally, some majors have a seminar participation requirement.
+
+The MD/MEng student will fulfill all of the requirements of the MEng degree. To accomplish this, the following accommodation has been made for those seeking a dual degree:
+
+6-9 credits (depends on MEng major) required for the MEng degree may be fulfilled based on satisfactory completion of the School of Medicine 1 Basic Sciences curriculum. See table below:
+===
+Internship, project, or equivalent requirement may be fulfilled as described below.
+In the fourth year, each MEng student is required to undertake a practical internship, which must encompass at least 320 hours of effort (as documented in their detailed laboratory notebook). These internships are by nature focused on engineering applications and technology development. To achieve this, each MD/MEng student may work under the auspices of Faculty in the School of Medicine, MedBlue Program, the Pratt School of Engineering, or other similar program to be reviewed and approved by representatives from the MEng and SOM faculty. Specifically, each MD/MEng candidate will: 
+
+work under the guidance of one or two attending physicians and engineers during their 4th year (“second third year”) to identify and complete at least one comprehensive Confidential Need Specification with the sponsorship of one of the clinical faculty;
+develop new technologies or engineering approaches (including optimization/system analysis or feasibility analysis, etc.) for improving human health based on the Need Specification;
+present their proposed technology or engineering approach to a select group of prospective investors and/or end users (clinicians);
+complete an Invention Disclosure Form approved by faculty advisor for the project and the faculty who teach the internship course, MEng 551
+(optional) submit the IDF, which requires review and signature of appropriate SOM Department Chair; review and signature by appropriate Engineering Department Chair.
+(optional) provide required information and support to OLV to assist in their review and action.
+Example Curriculum
+The MD/MEng is most closely aligned with the Biomedical Engineering major and is ideal for medical students with an interest in innovation and entrepreneurship. The example below shows the Pratt course work requirements for a major in Biomedical Engineering with an emphasis in Healthcare Innovation and Entrepreneurship.
+
+THE MASTER OF ENGINEERING IN BIOMEDICAL ENGINEERING WITH EMPHASIS ON HEALTH CARE INNOVATION AND ENTREPRENEURSHIP
+===
+Application Requirements and Process
+The applicant must be in good standing with the School of Medicine. Applications should be submitted using an application to the Master of Engineering program. MD/MEng students should indicate on their application that they will be pursuing MEng as a concurrent degree.
+
+Students interested in this program should apply no later than March 15 in the second year of the MD program.
+
+See the links below for more information.
+
+Application Deadlines
+Application Requirements (Note that applicants may use MCAT scores in lieu of GRE scores for the MD-MEng dual degree only.)
+Apply Online
+Review Process
+The student must inform the Third Year Study Program Director in the School of Medicine, the Director of Masters Studies in the appropriate MEng major, and the Pratt Professional Masters Admissions Office so that the application and dual degree plan can be reviewed and approved separately from the Pratt School general admissions review.
+
+Tuition
+Students will pay Master of Engineering tuition for one year (two semesters) after the MS2 year and School of Medicine tuition for four years (SoM 1, SoM 2, SoM 3 [year 4], and SoM 4[year 5]). The typical MEng degree is 3 semesters and so obtaining a concurrent degree saves students the equivalent of one semester of tuition compared to obtaining both degrees separately.
+
+Granting of Degree
+Because this is a concurrent degree and Medical School courses are being used to fulfill MEng degree requirements, the MEng degree will be granted simultaneous to the granting of the MD degree, typically at the end of the 5th year. If a MD/MEng student leaves the MD program before completing both degrees, a case-by-case analysis may be performed to determine if the MEng degree may be granted independently or if additional coursework is required to independently fulfill the MEng degree requirements. Since no accommodation has been made to the MD requirements, students withdrawing from the MEng degree will not impact MD degree requirements. 
+===
+Student Engagement and Support
+
+Mission:
+The mission of the Student Engagement & Support team is to foster student success by building community, cultivating engagement opportunities, and encouraging holistic student well-being. 
+
+What We Do:
+New Student Orientation planning
+Monthly community building opportunities
+Advise Engineering Graduate Student Council
+Advise Student Advisory Board
+Advise PhD Plus Student Executive Board
+Graduation planning
+One-on-one confidential meetings with students
+Referrals to numerous campus resources
+Health and Wellness Coaching
+Oversee Pratt Peers Student Support Network
+Wellbeing Workshops and Trainings
+Who We Are:
+In addition to creating opportunities for students from our various programs and departments to connect, we dedicate our time to supporting the health and well-being of the graduate and professional student population at the Pratt School of Engineering. We are all certified as mental health and suicide prevention instructors who teach others within our community how to identify, understand, and respond to individuals experiencing mental health or substance-use issues. Our goal is to help students thrive during their time at Duke, and we encourage students to connect with a member of our team if there is any support we can provide. 
+
+===
+International Student Resources
+
+As an international student at Duke, you have several resources designed to help you acclimate and excel during your program. Two wonderful departments on campus are the International House and Duke’s Visa Services Office. Both offer a variety of services that you will undoubtedly find useful. Below is an overview of how these departments will serve you as a student.
+
+International House: https://studentaffairs.duke.edu/ihouse: Duke’s Visa Services: https://visaservices.duke.edu/
+Acclimation to the US Visa-Specific Advising
+Cultural Clubs & Student Involvement	US Work Authorization
+Resources for Partners & Families	Works closely with Pratt Admissions Team
+ 
+
+Additionally, Graduate Communications and Intercultural Programs (GCIP) provides our students with communication and cultural acclimation resources including English courses, 1:1 coaching, workshops, training programs, and conversation clubs to support you throughout your academic program.
+
+GCIP vs. EIS (English for International Students)
+
+As a Pratt student, your communication support services (including English courses) will be provided through Pratt’s Graduate Communications and Intercultural Porgrams (GCIP). This can sometimes be confusing because the Graduate School also has an English program (EIS) which serves the other graduate students at Duke. Your classes and other language support services through GCIP are specifically for Pratt graduate students and have been designed with your unique needs in mind. You are not eligible for EIS services and should not take part in their testing or services. Please email gcc-pratt@duke.edu if you have any questions about your communications support services and options.
+
+===
+Safety and Support Resources:
+Download the Duke LiveSafe app. LiveSafe allows you to send real-time tips through the touch of a button to Duke University Police, which monitors messages 24/7.
+https://emergency.duke.edu/notified/livesafe/
+
+SAFETY ADVICE AND RESOURCES:
+
+Alert police to strangers or suspicious activity in your area (see contact information above).
+Lock all doors and windows of your residence, and utilize any additional security measures available to you (e.g., alarm systems, deadbolt locks).
+If you are walking on campus after dark, you can request a safety escort from Duke Police. Call 919-684-2444, pick up a nearby Help Phone, or use the ‘Emergency Contact’ feature on Duke’s LiveSafe mobile app.
+If you are walking or biking off campus, plan your route in advance and choose well-traveled routes. Travel in groups whenever possible. You can use the “SafeWalk” feature on the LiveSafe app and invite friends to virtually escort you to a destination on a real-time map.
+From 6:00pm – 2:00am (last ride at 1:50am) on Monday through Saturday, Duke Vans provides free, on-demand transportation for faculty, staff and students. Rides are available to and from most Duke facilities that are open during these hours to off-campus locations within a 2.5 mile service area.
+Stay informed about safety in the city of Durham at durhampolice.com.
+Personal electronics (laptops, etc.) can be engraved with your driver’s license number to deter theft. Engraving will help police get in touch with you when stolen items are recovered. For an appointment, call 919-681-5609.
+The Duke Police website offers additional safety advice for a number of on- and off-campus situations.
+
+===
+
+Employment Options
+If you are a student interested in working part-time, there are many opportunities on Duke’s campus. While the university policy allows students to work no more than 19.9 hours per week, we highly recommend graduate students limit their working time to no more than 10 hours per week. You will find yourself with a high level of academic rigor and we’ve found that students excel best, both academically and professionally, when they limit their working hours to no more than 10 per week.
+
+While we do not not place students in jobs or maintain a list of open positions, there are a number of resources where you can search for current part-time job openings available around campus:
+
+JobX is an excellent resource for student employment (your NetID is required to access JobX)
+Campus Recreation offers a variety of positions for students available at Brodie Recreation Center and Wilson Recreation Center
+Duke Library System offers a variety of positions within the library system, including technical roles
+Office of Information Technology looks for students who have excellent customer service skills and an interest in learning more about technology
+The Academic Resource Center hires graduate students to work as peer tutors helping students with specific courses or areas of study
+Housing and Residence Life hires Graduate Residents (GRs) for key student leadership roles. GRs reside in assigned on-campus housing and works as a mentor, advisor, and resource agent
+Build relationships! Students often TA for a professor they have built a relationship with throughout their time in class together. Get to know your first semester professors so they are aware of your interest in a future TA opportunity
+international students who hold an F-1 or J-1 visa must fill out appropriate documents with Duke Visa Services BEFORE beginning work.
+
+===
+Engineering Master’s Programs Student Advisory Board
+
+The Engineering Master’s Programs Student Advisory Board (SAB) is comprised of students who represent the various engineering master’s programs and departments at the Pratt School of Engineering. SAB members are the voice for their engineering community, and provide school leadership with valuable insight by expressing the needs and ideas of our students. Using that feedback, they team with the Graduate Student Programs and Services staff to build a strong and vibrant engineering master’s programs community.
+
+SAB members help plan professional, academic, networking, and social events. They also collaborate with other student leadership groups on University-wide issues.
+===
+The Pratt Peers Student Support Network provides the graduate student community at the Pratt School of Engineering the opportunity to connect with others who may have shared experiences in a supportive and non-judgmental way.
+
+Pratt Peers are equipped with active listening skills, intervention techniques, and a thorough understanding of Duke Reserouces. These skills allow Pratt Peers to provide support and guide others toward seeking professional help when it may be necessary.
+===
+
+Instructions for Contacting Pratt Peers
+If you or someone you know is experiencing an emergency or crisis, see above
+Pratt Peers are avaiable to connect with graduate and professional students from the Pratt School of Engineering for non-crisis/non-emergency situations. Students who are looking to connect with a peer for a supportive and non-judgmental conversation are encouraged to reach out. To do so, you should:
+Select one of our trained Pratt Peers that you would like to connect with
+Send an email to that individual. Subject line should be: Pratt Peers Outreach
+You should expect to hear back from a Pratt Peer within 24 hours
+https://sites.duke.edu/prattgsps/pratt-peers-student-support-network/
+
+===
+University-Wide Leadership Opportunities
+Duke University Graduate and Professional Student Government
+The Graduate and Professional Student Government (GPSG) is the umbrella student government organization for Duke’s nine graduate and professional schools. It is the official representative body for Ph.D. and master’s students in The Graduate School and works closely with The Graduate School on a variety of issues related to enhancing the graduate student experience. The GPSG also serves as a resource for incoming and returning students in the areas of academic and administrative concerns, as well as social networking.
+
+The General Assembly meets regularly to discuss GPSG business, voice concerns, and listen to presentations from University administrators – all students are welcome to attend these meetings. More information about getting involved with the GPSG can be found HERE.
+
+University Judicial Board
+The Office of Student Conduct, under the direction of the Vice President for Student Affairs, assists in cases of alleged misconduct involving students across communities (e.g., between an undergraduate and a graduate student). The University Judicial Board has jurisdiction over these cases, as well as cases arising under the Pickets, Protests, and Demonstrations Policy.
+
+Each year, we appoint one Master of Engineering student to the University Judicial Board who will serve for one academic year (Fall and Spring semesters). The position requires that a student is available on an as-needed basis as cases arise.
+
+Individuals who are interested in this important leadership role should email David Lee (charles.d.lee@duke.edu), Student Engagement Coordinator by July 28.
+
+ 
+
+Additional leadership opportunities and involvement can be found by exploring: Duke University Student Groups
+
+===
+Cultural, Racial, & Ethnic Programs and Centers
+https://studentaffairs.duke.edu/cma
+Center for Multicultural Affairs
+The Center for Multicultural Affairs (CMA) promotes community engagement, multicultural education, leadership development, and social justice education among the student population. Their programs and services aim to empower students and to create a vibrant and inclusive community.  https://studentaffairs.duke.edu/cma/contact-us.
+Cultural, Racial, & Ethnic Programs and Centers
+https://studentaffairs.duke.edu/ihouse
+International House
+IHouse provides educational programs, services, and advocacy to Duke global community on campus as well as outreach to the greater Durham area.  They offer extensive cross-cultural information and training to enhance the mission of the university. https://studentaffairs.duke.edu/ihouse/about-us.
+Cultural, Racial, & Ethnic Programs and Centers
+Center for Sexual and Gender Diversity (CSGD) https://studentaffairs.duke.edu/csgd
+CSGD strives to achieve an inclusive campus climate for students, staff, faculty, and alumni with marginalized sexual orientations, gender identities, and gender expressions through education, advocacy, support, mentoring, academic engagement, and providing space.  https://studentaffairs.duke.edu/csgd/contact-us.
+
+Jewish Life
+Jewish Life at Duke is comprised of the Freeman Center and the Rubenstein-Silvers Hillel.  The Freeman Center provides a home for Jewish life on campus while the Rubenstein-Silvers Hillel provides exciting and innovative programming throughout the Duke community.  The combination works to foster and enrich Jewish life through social, educational, religious and cultural activities.  https://studentaffairs.duke.edu/jewishlife.
+
+Mary Lou Williams Center
+The Mary Lou Williams Center for Black Culture strives to promote racial understanding, build community, and foster an appreciation for and increase knowledge of Black people, Black history, Black culture, and the vast contributions of people of the African Diaspora. https://studentaffairs.duke.edu/mlw.
+
+Muslim Life
+Muslim Life at Duke is committed to enriching the lives of Muslim students and the whole campus through organizing events and activities that cater to the spiritual, social and intellectual needs of Duke students.  https://studentaffairs.duke.edu/muslimlife.
+
+Women’s Center
+The Duke University Women’s Center is dedicated to helping every woman at Duke become self-assured with a streetwise savvy that comes from actively engaging with the world. We welcome men and women alike who are committed to gender equity and social change.  https://studentaffairs.duke.edu/wc/contact-us.
+
+Counseling and Psychological Services (CAPS)
+CAPs provide a wide range of services, all covered through the Student Health Fee, that meet the mental health and student development needs of Duke students.  At CAPS, they address a wide range of life issues concerning a student’s mental health, not just mental health emergencies. Call 919.684.3737 or visit this link to make an appointment. 
+
+
+===
+Duke Community
+Ways to Connect to the Duke Community
+
+Duke Mobile App  https://oit.duke.edu/what-we-do/applications/dukemobile – Get all the best information about Duke by using this app. The DukeMobile app is available for Apple and Android in your app play store.
+
+Duke Events Calendar http://calendar.duke.edu/ – Duke calendar provides a list of all events happening on Duke’s campus.
+
+Duke Athletics http://www.goduke.com/ – Duke offers many exciting athletic events which are free for students! For more information about upcoming athletic events, visit this link. 
+
+Duke Recreation & Physical Education https://recreation.duke.edu/ – The mission of Duke Recreation & Physical Education is to provide exceptional and diverse opportunities that promote healthy active lifestyles in a safe, inclusive environment. Find out about the different recreational facilities on-campus (gyms, pools, weight rooms), and another great way to connect with the Duke community is by joining an intramural or club team!
+
+Duke Gardens https://gardens.duke.edu/ – Sarah P. Duke Gardens is widely recognized as a premier public garden, providing extraordinary visitor experiences, horticultural artistry, leadership in conservation, and innovative programs. It plays a vital role in the life and values of Duke University and is a respite from the ordinary in a welcoming and beautiful setting. For more information visit this link: https://gardens.duke.edu/visit.
+
+Duke Lemur Center https://lemur.duke.edu/ – Founded in 1966, the Duke Lemur Center (DLC) is an internationally acclaimed non-invasive research facility housing nearly 240 animals across 17 species – the world’s largest and most diverse population of lemurs outside their native Madagascar. To schedule a visit, go to this link: https://lemur.duke.edu/engage/tours/.
+
+The Nasher https://nasher.duke.edu/ – The Nasher is the Museum of Art at Duke University. Regular admission to the Nasher Museum is free to Duke students, faculty, staff, and Duke Alumni Association Members (with a valid Duke ID).  Visit the calendar for exhibition opening events and a lively schedule of programs, including free Family Days, performing arts events, lectures, films, and social gatherings.
+
+Rubenstein Art Center https://artscenter.duke.edu/ - The Rubenstein Arts Center is a hub for artistic production at Duke University and a new arts venue for the Triangle. Students, faculty, visiting artists, and other collaborators come together in flexible project studios to hone their skills and create new work. Public programs—including performances, film screenings and exhibitions—launch this work into the world. The Ruby is also home to the programs in Dance, Arts of the Moving Image and WXDU 88.7 FM, Duke’s student-run radio station. For a list of events, visit this link: https://artscenter.duke.edu/events/.
+
+===
+Safety at Duke
+Emergency Notifications
+
+Duke has several ways to notify students in a campus emergency such as text messaging, email, and outdoor sirens. All members of our community are automatically enrolled to support overall safety. For more information, please visit: http://emergency.duke.edu/notified.
+
+LiveSafe
+
+Duke partners with the free LiveSafe app and we encourage all members to download this helpful safety tool immediately. LiveSafe allows you to communicate through the touch of a button to Duke University Police, which monitors messages 24/7. There are also a number of other valuable features:
+
+The “SafeWalk” feature allows students to virtually walk family, friends, and colleagues home or to another destination by monitoring their location on a real-time map.
+The “Emergency Options” feature allows students to call or message Duke University Police. They’ll use your location to send help immediately.
+The “Report Suspicious Activity” feature allows students to report if they see something or have a concern.
+The “Report a Concern” feature allows students to report a safety hazard or other issue.
+The “Track Campus Buses” feature allows students to check the real-time location of campus buses.
+The “Request a Duke Van” feature allows students to receive free, on-demand transportation between 6:00 PM and 2:00 AM, Monday through Saturday, when/where Duke Transit is not in service.
+The “Duke Resources” feature allows students to access emergency procedures and support services.
+Download the LiveSafe app, become familiar with it by watching this video, and visit emergency.duke.edu for more information.
+
+===
+Safety at Duke
+Duke Police
+
+The Duke University Campus Police Department provides 24-hour police and security services to Duke’s academic campus and hospital.
+
+For emergencies, call 911.
+For non-emergencies, call (919) 684-2444 or visit this link for more information about Duke Police and the services they provide. 
+Women’s Center
+
+The Women’s Center provides therapeutic services to survivors of gender violence,  which includes sexual violence, intimate partner violence, stalking, and sexual harassment. The Women’s Center is an inclusive space and serves all genders.
+
+If you are a student at Duke University (of any gender) and are a victim-survivor of gender violence, contact the Women’s Center about their confidential services.
+
+Monday-Friday, 9am-5pm: Call 919-684-3897, email WCHelp@duke.edu, or walk in no appointment necessary.
+After-hours, weekends, holidays: Call 919-970-2108 or email WCHelp@duke.edu.
+Duke Office of the Ombuds
+
+Duke Office of the Ombuds offer offer neutral and confidential guidance on a variety of issues for all students at Duke. They listen to concerns and complaints and discuss appropriate options, assist students in resolving problems, mediate conflicts, and refer students to appropriate campus resources. Contact Keegan Cary at 919-503-0917 or ombuds@duke.edu.
+
+Center For Multicultural Affairs
+
+Duke is a diverse community which is one of many reasons why students matriculate to Duke.  We value difference greatly but recognize that the vast diversity of our student population presents equal opportunities for understanding as well as misunderstanding.  As one of many campus resources available, the Center for Multicultural Affairs would like to facilitate your reporting bias incidents.  We are here to support you and ensure that you have the best possible experience while at Duke.
+
+To report a bias incident, click here and to speak with someone directly, call 919-684-6756.
+
+===
+Health, Wellness & Support at Duke
+Duke has an established set of services that are designed to support students so that they are set up for success. Students should always feel comfortable reaching out to their program or department, as well as the Student Engagement and Support team for advice or referrals.
+
+Duke’s comprehensive health, wellness and support services include:
+
+Mental Health and Well-Being Supports
+Blue Devils Care provides 24/7 mental telehealth support to all Duke students at no cost. This service provides on-demand mental health support and gives students a safe space to talk about anything at any time including anxiety, relationships, sadness, isolation and loneliness. Visit BlueDevilsCare.duke.edu. Register using your Duke email address to access your free visits.
+
+Counseling and Psychological Services (CAPS) helps Duke Students enhance strengths and develop abilities to successfully live, grow, and learn in their personal and academic lives. CAPS offers many services to students, including brief individual and group counseling, couples counseling and more. CAPS remains available and committed to serving students through virtual platforms. Call 919-660-1000 to make an appointment.
+
+DukeReach directs individuals to the resources available to help a student in need. DukeReach works with departments and groups across campus and in the community, including Housing, CAPS, Student Health, community health providers, and more. DukeReach provides comprehensive outreach services to identify and support students in managing all aspects of their well-being. Non-emergency concerns about a student’s health or behavior can also be reported by submitting a CARE Report. Contact DukeReach at 919-681-2455 or dukereach@duke.edu. For after-hours urgent needs, call the Dean on Call at 984-287-0300.
+
+DuWell engages students through a variety of wellness experiences across campus in an effort to manage stress and reduce anxiety while emphasizing self-care. Their Moments of Mindfulness program offers the Duke community opportunities to relax, reenergize, and recharge. Moments of Mindfulness promotes the management of stress and reduction of anxiety while prioritizing self-care and focusing on the present. Weekly activities can be found HERE.
+
+Personal Finance@Duke is a program designed to empower Duke students to make informed financial decisions by providing them with  financial management knowledge and skills necessary to navigate life events that affect everyday financial decisions, discuss issues surrounding personal finances, and plan for the future.
+
+===
+Health, Wellness & Support at Duke
+Community Support Services
+Duke Office of the Ombuds offer neutral and confidential guidance on a variety of issues for all students at Duke. They listen to concerns and complaints and discuss appropriate options, assist students in resolving problems, mediate conflicts, and refer students to appropriate campus resources. Contact Keegan Cary at 919-503-0917 or ombuds@duke.edu.
+
+Duke Women’s Center provides therapeutic services to survivors of gender violence. It also provides education and training initiatives focused on preventing gender violence. The Women’s Center is an inclusive space and serves all genders and all services are confidential. Call 919-684-3897 or email: womenctr@duke.edu.
+
+Lactation Support Services are available in the Fitzpatrick Building, Hudson Hall Annex, and Wilkinson Building (along with 25 other rooms across Duke’s Campus) to support our faculty, staff, and students who are nursing young children. All lactation rooms are locked for privacy, and are available through card access to approved users with reservations.
+Food Security Programs
+Feed Every Devil allows students to donate extra Food Points to a Duke-managed Food Points bank. In turn, students experiencing food insecurity can request supplemental Food Points from the bank to go towards their balance.
+
+GPSG Community Pantry is the student-run campus pantry provides non-perishable food & goods for graduate and professional students. A valid Duke student ID is required for entry and program sign up. 
+
+Physical Health
+Duke Recreation & Physical Education provides exceptional and diverse opportunities that promote healthy active lifestyles in a safe, inclusive environment. Find out about the different recreational facilities on-campus (gyms, pools, weight rooms), and another great way to connect with the Duke community is by joining an intramural or club team!
+
+Student Health is the primary source for a wide range of health care services, many of which are covered by the Duke student health fee. Make an appointment by calling 919-681-9355.
+
+Student Health Nutrition offers nutrition support to Duke students living or staying in North Carolina. Appointments are free; visits with a Duke Student Health Nutritionist  are covered by the Student Health fee. Make an appointment by calling 919-681-9355 or by visiting this LINK.
+
+===
+ealth and Wellness Coaching
+Your health and wellness are the foundation to everything you do.
+We encourage you to take the time to invest in you!
+Frequently Asked Questions
+What is health and wellness coaching?
+A Pratt School of Engineering Health and Wellness Coach works with students, staff, and faculty (“clients”) who want to improve their health and wellness. They enable their clients to explore their personal health goals, name them clearly, and set up a success-orientated plan for achieving those goals. A health and wellness coach also helps their client overcome obstacles or get “unstuck” when working towards a lifestyle change. During the coaching experience, clients will be empowered and supported as they work towards their goals
+
+What types of topics are appropriate to bring to a health and wellness coach?
+Clients might work with a health and wellness coach for a wide variety of reasons, including:
+
+Managing stress
+Becoming more active
+Navigating interpersonal relationships
+Eating a healthier diet
+Finding overall life-balance
+Prioritizing self-care
+Sleep hygiene
+Building self-confidence
+Any non-clinical growth or self-improvement topic
+What can a client expect from a health and wellness session?
+A coaching session is a collaborative conversation between a coach and a client. The coach serves as a guide through the process of change and the client is the expert in their own life. The coach helps a client assess what is currently working for their health and well-being, what may not be working quite as well, and identify what their health and well-being vision is so they can begin taking small action steps towards it. Coaches use a holistic approach and motivational interviewing techniques. Session characteristics include:
+
+1:1 meeting with a coach for 45-60 minutes
+A confidential* and safe space for a client to explore their current health and well-being
+Conversations are client-centered, prioritizing current goals and lifestyle
+Creation of SMART goals that move the client towards their vision of their best health
+Design of accountability plans to help the client stay on track
+After a session, a client will feel focused, energized, and motivated towards change
+*Clients may share private information during the coaching session. The coach will hold everything that is said in confidence unless the client presents a physical danger to their self or others. In this case, the coach will inform campus or legal authorities so protective measures can be taken.
+
+What is the difference between health and wellness coaching and counseling?
+Health and wellness coaches help clients assess their well-being, and then support them as they develop action plans towards behavior change. Health and wellness coaches do not diagnose, prescribe treatments, or provide psychological interventions. Health and wellness coaches empower their clients to use their strengths to navigate through lifestyle and behavior changes. If your health coach feels you would be better suited to seek counseling before pursuing health coaching, they will indicate this to you and share resources that will help connect you to the appropriate resources. Clients who are experiencing mental health challenges should seek treatment through Duke’s Counseling and Psychological Services.
+===
+Local & National Support Resources
+Your well-being is a very important priority to us. In case of an emergency in which you or another’s immediate safety is at risk, please dial 9-1-1 for immediate assistance within the United States. There are also a number of local and national emergency resources you should be aware of that can assist in crisis or urgent situations. These include:
+
+Local Support Resources
+Compass Center for Women and Families: https://www.compassctr.org/, 919-929-7122
+
+Duke Mutual Aid: https://www.dukemutualaid.org/resource-list
+
+Durham County Food and Nutritional Services: https://www.dconc.gov/county-departments/departments-f-z/social-services/family-economic
+-independence/food-nutrition-services.
+
+Durham Crisis Response Center: https://www.durhamcrisisresponse.org/, 919-403-6562
+
+EndHungerDurham: https://www.endhungerdurham.org/food-resources/.
+
+Food Bank of Central & Eastern North Carolina: https://foodbankcenc.org/.
+
+Healthy Durham: https://healthydurham.org/resources/covid-19-resources.
+
+Interact Family Safety and Empowerment Center: https://interactofwake.org/, 919-828-7501
+
+LGBT Center of Raleigh: Significant Others Friends, Family, And Allies(SoFFA): https://www.lgbtcenterofraleigh.com/, 919-832-4484
+
+LGBTQ Center of Durham: https://www.lgbtqcenterofdurham.org/
+
+More In My Basket: https://morefood.org.
+
+North Carolina Diaper Bank: https://ncdiaperbank.org/triangle
+
+Rent and Utilities Assistance: https://durham.ces.ncsu.edu/rent-assistance/
+
+National Support Resources
+Alcoholics Anonymous: https://www.aa.org/
+
+Narcotics Anonymous: https://na.org/, 888-GET-HOPE (438-4673)
+
+National Alliance on Mental Illness (NAMI): https://www.nami.org/help, 800-950-NAMI (6264)
+
+National Domestic Violence Hotline: https://www.thehotline.org/, 800-799-SAFE (7233)
+
+National Eating Disorder Association: https://www.nationaleatingdisorders.org/, 800-931-2237
+
+National Sexual Assault Hotline: https://www.rainn.org/, 800-656-HOPE (4673)
+
+National Suicide Prevention Lifeline: https://suicidepreventionlifeline.org/, 800-273-TALK (8255)
+
+LGBTQ Trevor Lifeline: https://www.thetrevorproject.org/, 866-488-7386
+
+Addictions Hotline: https://drughelpline.org/, 844-289-0879
+
+===
