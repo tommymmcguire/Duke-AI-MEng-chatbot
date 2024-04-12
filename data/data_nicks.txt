@@ -1,0 +1,875 @@
+Our program uses a rolling admissions process that evaluates applications as they are submitted and returns decisions in a timely manner. Find out how to apply and see our schedule of application deadlines below.
+
+If you have questions, please contact our Admissions team at pratt_masters@duke.edu.
+===
+APPLICANT REQUIREMENTS
+Master of Engineering Program
+The Duke AI Master of Engineering (MEng) program is designed to be accessible to participants from a variety of engineering and science backgrounds. Applicants should have:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience if your degree is in a non-technical field), and
+A minimum of one (1) semester of programming (any language), and
+Sufficient DUOLINGO, IELTS, or TOEFL English Language Testing scores (official result required; international students only), and
+Two (2) semesters of calculus
+Prior coursework in probability and statistics and linear algebra is highly encouraged, but not required for admission.
+===
+APPLICANT REQUIREMENTS
+Graduate Certificate Program
+The Duke AI Foundations for Product Innovation Graduate Certificate is designed for working professionals with a technical or scientific background. Participants are expected to be working full-time while completing the Certificate program. Applicants should have:
+
+An undergraduate degree in science or engineering (or equivalent technical work experience if your degree is in a non-technical field), and
+A minimum of one (1) semester of programming (any language), and
+Sufficient DUOLINGO, IELTS, or TOEFL English Language Testing scores (official result required; international students only), and
+Two (2) semesters of calculus
+International applicants - please note that this standalone certificate program does not qualify students for US visa sponsorship.
+===
+APPLICATION CHECKLIST
+Application Fee US$75
+ 	Paid by credit card with your application. Fee waivers » https://meng.pratt.duke.edu/apply/requirements/application-fee
+Documentation of your Bachelor's Degree, in engineering or science from an accredited institution:
+ 	Transcripts (or, for institutions not using a 4.0 system, estimated GPA and grade scale)
+Other Items:
+ 	Short Answer Essays
+ 	Resume
+ 	Three (3) Recommendations
+ 	Video Introduction
+International Applicants:
+ 	English Language Testing official results
+Optional for 2024 Applicants:
+ 	Graduate Record Exam (GRE) official results, or equivalent exam
+===
+DEADLINES
+For Fall Entry
+
+The Artificial Intelligence Master of Engineering and Graduate Certificate programs review applications on a rolling basis. Applications submitted earlier than the deadlines listed below will likely receive an earlier response.
+ON-CAMPUS Master of Engineering
+For Application Round 1, Applications Must Be Received by January 15, Receive Decision Notification by March 15, With Reply Required by April 15
+For Application Round 2, Applications Must Be Received by March 15, Receive Decision Notification by April 15, With Reply Required by May 1
+
+ONLINE Master of Engineering
+For Application Round 1, Applications Must Be Received by January 15, Receive Decision Notification by	March 15, With Reply Required by April 15
+For Application Round 2, Applications Must Be Received by April 15, Receive Decision Notification by May 15, With Reply Required by June 1
+
+ONLINE Certificate Program
+For Application Round 1, Applications Must Be Received by January 15, Receive Decision Notification by March 15, With Reply Required by April 15
+For Application Round 2, Applications Must Be Received by April 15, Receive Decision Notification by May 15, With Reply Required by June 1
+===
+START YOUR APPLICATION
+Click to create a Duke OneLink account and begin the online application: https://meng.pratt.duke.edu/apply/start-application
+Enrolling students are required to pay a deposit.
+===
+Deposit for Enrolling Students
+Pay the Deposit
+Admitted student must officially reserve their place in the program by submitting a non-refundable $600 Enrollment Deposit. This enrollment deposit is for students who have been accepted into a MEng or MEM program (online or on-campus) in the Institute for Enterprise Engineering at Pratt School of Engineering.
+
+Make a secure payment via Cybersource for your Duke enrollment deposit.
+
+Only credit card payments are accepted.
+
+For those deferring to another semester, you must pay your deposit first.
+
+Enrollment deposit and application decisions are due April 15 via the Admitted Students Portal. Duke University does not accept credit card or debit card payments for tuition and fees, only your application fee and enrollment deposit. Please review the Duke Payment Policy for future tuition payments to the Bursar’s Office.
+Submit Enrollment Deposit Now: https://applygp.duke.edu/apply/?sr=99d73f9f-8245-4267-a16c-0086ebaac202
+===
+Faculty
+DIRECTOR
+Jon Reifschneider
+Director, AI for Product Innovation Master of Engineering Program
+jon.reifschneider@duke.edu
+
+AI AND MACHINE LEARNING TECHNICAL FACULTY
+Brinnae Bent
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+brinnae.bent@duke.edu
+
+Xu Chen
+Adjunct Assistant Professor in the Pratt School of Engineering
+xu.chen@duke.edu
+
+Alfredo Deza
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+alfredo.deza@duke.edu
+
+Noah Gift
+Adjunct Associate Professor in the Pratt School of Engineering
+noah.gift@duke.edu
+
+Wann-Jiun Ma
+Adjunct Assistant Professor in the Engineering Graduate and Professional Programs
+wann.jiun.ma@duke.edu
+
+Pramod Singh
+Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+pramod.singh@duke.edu
+
+Natalia Summerville
+Adjunct Associate Professor in the Engineering Graduate and Professional Programs
+summerville.natalia@duke.edu
+
+BUSINESS & MANAGEMENT FACULTY
+Theodore Ryan
+Executive in Residence in the Engineering Graduate and Professional Programs
++1 919 660 5386
+theodore.ryan@duke.edu
+
+Richard Dean Telford
+Executive in Residence in the Engineering Graduate and Professional Programs
++1 919 613 6989
+ric.telford@duke.edu
+
+LAW & ETHICS FACULTY
+Jeffrey D Ward
+Associate Dean for Technology and Innovation in the Duke Law School
++1 919 613 7153
+ward@law.duke.edu
+===
+AIPI 503: Python & Data Science Bootcamp
+This four-week online bootcamp will help you build proficiency in the use of Python for data science as well as basic software engineering principles and tools. It covers foundational concepts and provides hands-on experience with critical skills including loading, cleaning, manipulating, visualizing, analyzing and interpreting data. Upon completion of the bootcamp, you will have the skills to identify, formulate and solve practical data analysis problems using Python.
+
+The first two weekly modules are an introduction to basic Python data structures and control flow. From there, students will build proficiency with three Python libraries critical for data science: NumPy, Pandas, and Matplotlib.
+
+Students who are proficient in Python as well as the data science libraries listed may request to test out of the bootcamp. Waivers are granted at the program director’s discretion upon successfully completing the proficiency test.
+===
+AIPI 510: Sourcing Data for Analytics
+In industry, one of the main activities, and challenges, of implementing machine learning applications are collecting data to use in modeling. This course introduces students to methods and tools used for data collection, storage, manipulation, analysis and visualization. The first segment of the course will be an introduction to numerical programming focused on building skills in working with data via the Numpy and Pandas libraries, two of the most common tools used by teams working with data and modeling. Technical aspects covered will include the types of data, methods of sourcing data via the web, APIs, and from domain-specific sensors and hardware (IoT devices), an increasingly common source of analytics data in technical industries. The course also introduces methods and tools for evaluating the quality of data, performing basic exploratory data analysis, and pre-processing data for use in analytics. Non-technical aspects covered include an introduction to data privacy, GDPR, regulatory issues, bias, and industry-specific concerns regarding data usage.
+===
+AIPI 520: Modeling Process & Algorithms
+This course is an introduction to the modeling process and best practices in model creation, interpretation, validation, and selection of models for different uses. The primary machine learning algorithms, both supervised and unsupervised, are introduced and students become familiar with both the mathematical theory and the programming application of the models. The primary focus is on statistical learning approaches but the course also introduces deep learning and its applications. At the end of this course, students should have a solid understanding of the end-to-end modeling process and the different types of model algorithms along with the strengths, weaknesses, assumptions, and use cases for each type, and be capable of training and using models in Python.  Students who have taken one or more prior machine learning courses in their undergraduate institution will have the option to take an additional technical elective instead of AIPI 520.
+===
+AIPI 540: Deep Learning Applications
+This course focuses on the primary use cases of deep learning to solve challenging problems particularly in the areas of computer vision, natural language processing and recommendation systems. Students will develop an understanding of both the mathematical theory and programmatic implementation of neural networks using Python.  The course includes significant hands-on team-based project work and an emphasis on self-discovery.  The semester will be split into three core modules: computer vision, NLP, and recommendation systems.  Each module will include lectures, assignments, a team project, and a review of recent research in the field. 
+===
+AIPI 561: Operationalizing AI (MLOps)
+Deploying AI in production requires consideration of factors such as online model training, scaling, integration with software/hardware products, monitoring/support, security and failure resiliency.  This course introduces students via real-world case studies to methods and best practices in deploying AI operationally within products and services, including both technology and support infrastructure considerations. The course will also introduce available technologies for working with Big Data in industries that require specialized infrastructure and tools due to the volume of data.
+===
+AIPI 501: Industry Seminar Series
+Students will attend a weekly seminar series featuring industry leaders discussing the opportunities, challenges and learnings they have gained from applying AI to products and services in their industry. Speakers will present live in-classroom or via video conference.  The emphasis in the selection of speakers will be placed on representing more traditional industries that are poised to be disrupted by AI such as agriculture, health care/biotech, energy and environment, and manufacturing.  The seminar series will reinforce the concepts learned in the core courses and expand students’ intuition for the opportunities to apply AI within more complex and/or traditional industries.
+===
+AIPI 560: Legal, Societal & Ethical Implications of AI
+Deploying AI within products and services has implications well beyond the technical considerations, which often include change management of operational workflows or staffing levels, data privacy considerations, bias risks and other ethical implications, and industry-specific regulations on the use of data and models operationally.
+This course will introduce students to the key areas of consideration when deploying products that contain AI:
+1. Legal implications and industry regulation
+2. Ethical considerations
+3. Change management and organizational/societal implications
+Case studies will be used extensively to provide real-world examples.
+===
+MENG 540: Management of High-Tech Industries
+The purpose of this course is to empower students to become collaborative, ethical leaders in the globalized, 21st-century workplace. Students learn concepts and practice skills that will enable them to transition from being an engineering sole contributor to managing and leading others as a business professional. Students gain a sound understanding of management and leadership; increase awareness of their own management and leadership styles; build and practice competencies essential for team success (e.g., effective communication, collaboration, conflict resolution); and become ethical leaders above reproach. Emphasis is on leading teams in a volatile, complex and interdependent world.
+===
+MENG 570: Business Fundamentals for Engineers
+This comprehensive course examines core and evolving concepts in the business fundamentals of successful technology-based companies including Business Plan Development & Strategies, Marketing, Product & Process Development processes, Intellectual Property, Accounting, Finance, and Operations. Students will learn the fundamentals essential to understanding all aspects of a business and will be able to converse in some depth in each of the areas studied upon completion. Other topics will include Supply Chain Management, Stage-Gate Development Cycles, Balances Scorecards, Blue Ocean Strategy, and Disruptive Technologies.
+===
+ELECTIVE OPTIONS (Student's must select three)
+Students in this master's degree program may take other graduate-level elective courses within Duke's Pratt School of Engineering, on a space-available basis with instructor permission. At least one elective must be taken through the AI MEng program.
+===
+AIPI 530: Optimization in Practice
+Optimization is the ultimate skill in artificial intelligence and prescriptive analytics allowing practitioners to generate the best actionable solutions for business needs. This class will give students required skills to mathematically formulate relevant business problems as optimization models, use leading software modeling syntax and solvers to generate optimum solutions and meaningfully interpret these solutions. We will use both SAS/Optmodel and Python/Pyomo to give student experience with proprietary and open-source optimization software. Focus will be on problem formulation and results interpretation.
+===
+AIPI 531: Deep Reinforcement Learning Applications
+This course will cover advanced sequential decision-making topics in AI and will consist of two parts: 1) deep reinforcement learning theory and 2) deep reinforcement learning applications. Deep reinforcement learning combines reinforcement learning and deep learning. The theory module will introduce students to major deep reinforcement learning algorithms, modeling process, and programming. The applications module will include case studies on the practical applications of deep reinforcement learning in industry. This is a project-based course with extensive Pytorch/Tensorflow hands-on exercises. Students will also have an opportunity to improve their GitHub profile by working on projects.
+===
+AIPI 571 / IDS 721: Data Analysis at ScalAIPI 590-03: Emerging Trends in Explainable AI
+This course introduces students to emerging trends in XAI (Explainable AI), including Human-AI interaction, ML interpretability and transparency techniques, adversarial attacks and defenses, and red-teaming. Discussions around the regulatory landscape, ethical considerations, and security will be balanced with hands-on experience with emerging tools and approaches in XAI. e in the Cloud
+This course is designed to give students a comprehensive view of cloud computing including Big Data and Machine Learning. A variety of learning resources will be used including interactive labs on Cloud Platforms (Google, AWS, Azure). This is a project-based course with extensive hands-on assignments.
+===
+AIPI 590-01: Large Language Models for Generative AI
+This course focuses on the emerging field of Generative AI with specific emphasis on Large Language Models (LLMs).  Both the theory and practical application of LLMs will be covered, with significant hands-on project work.  Students will work with LLMs to develop software applications and in the process will gain an understanding of the opportunities, limitations, and practical strategies for implementing generative AI effectively.  The course will also explore the nature of generative AI models relative to human intelligence, the role that generative AI plays in the path towards artificial general intelligence (AGI), and the opportunities and risks that the current trajectory of generative AI development is creating.
+===
+AIPI 590-02: Applied Computer Vision
+Computer vision is a rapidly evolving field with broad applications in industries ranging from healthcare and automotive to entertainment and agriculture. This course is designed to equip students with the knowledge and practical skills required to understand, develop, and deploy deep learning based computer vision systems for solving real-world problems. Students will delve into the fundamental concepts of computer vision, gain hands-on experience with state-of-the-art tools and libraries, and work on projects that tackle real-world challenges.  Topics covered include image classification, object detection, segmentation and generation.  Emphasis will be placed on building scalable data and modeling pipelines suitable for real-world application.
+===
+AIPI 590-03: Emerging Trends in Explainable AI
+This course introduces students to emerging trends in XAI (Explainable AI), including Human-AI interaction, ML interpretability and transparency techniques, adversarial attacks and defenses, and red-teaming. Discussions around the regulatory landscape, ethical considerations, and security will be balanced with hands-on experience with emerging tools and approaches in XAI. 
+===
+Additional Technical Elective:
+BIOSTAT 709: Observational Studies
+Methods for causal inference, including confounding and selection bias in observational or quasi-experimental research designs, propensity score methodology, instrumental variables and methods for non-compliance in randomized clinical trials.
+===
+Additional Technical Elective:
+BME 580: Biomedical Data Science
+This course will teach a combination of theory and application of biomedical data science principles using multi-scale biomedical data; including multi-omics, wearable sensor, and electronic health records data. Basic principles of data mining, exploratory data analysis, and statistics will be reviewed, and students will be introduced to supervised and unsupervised machine learning and model evaluation and selection methods. Methodology learned in classes will be applied in the assignments and class project to real-world multi-omics, wearable sensor, and electronic health records data.
+===
+Additional Technical Elective:
+CYBERSEC 511: Cybersecurity in the Software Development Lifecycle
+Teaches students about all steps of the software development lifecycle and the role Cybersecurity design principles play in requirements definition, design, development, testing, and maintenance. Tools and techniques to provide software security analysis and software assurance will be explored including software reverse engineering.
+===
+Additional Technical Elective:
+CYBERSEC 520: Applying Machine Learning to Advance Cybersecurity
+The use of machine learning and AI is becoming more prevalent for collecting and analyzing data as its consolidation increases in value. Cyberattacks seek to steal, deny access, misrepresent (such as deepfakes), or compromise the privacy of information. Students will explore the power of machine learning and AI’s use in enhancing Cybersecurity tools across the NIST Framework and also in detecting and exploiting vulnerabilities in timeframes and ways heretofore unthinkable.
+===
+Additional Technical Elective:
+ECE 564: Mobile App Development
+Explores the world of mobile application development with a focus on the needs of engineers. Centered on the Apple environment, with the development environment being on OS X and the target environment being an iOS device- iPad, iPhone, iPod Touch or Apple Watch. Real-world- and context-focused on the common programming patterns for engineers in academia or business- standalone apps, apps connected to other systems, apps connected to the cloud. Covers fundamentals essential to understanding all aspects of app development. Taught in a team environment. Students are required to present their project proposals and deliver an app as a final project.
+===
+Additional Technical Elective:
+ECE 663: ML in Adversarial Settings
+Machine learning is being widely deployed in many aspects of our society. Our vision is that machine learning systems will become a new attack surface and attackers will exploit the vulnerabilities in machine learning algorithms and systems to subvert their security and privacy. In this course, we will discuss security and privacy attacks to machine learning systems and state-of-the-art defenses against them.
+===
+Additional Technical Elective:
+ECE 682D: Probabilistic Machine Learning
+Introduction to concepts in probabilistic machine learning with a focus on discriminative and hierarchical generative models. Topics include directed and undirected graphical models, kernel methods, exact and approximate parameter estimation methods, and structure learning. The course assumes a prior background in linear algebra and probability and statistics.
+===
+Additional Technical Elective:
+EGRMGMT 575: Software Quality Management
+This class will introduce students to five different business personas that play a key role in the software development lifecycle—customer, software engineer, software release/quality manager, customer support engineer, and general manager. The students will better appreciate the perspectives that each of these personas brings to their role and how that affects the "delivered" quality that customers actually experience. The course will also help students understand how to assess customer business outcomes, expectations and measure customer experience. Finally, the class will provide exposure to current industry practices and include guest speakers who can give real-world examples relevant to software quality management.
+===
+Additional Technical Elective:
+EGRMGMT 590-01: Software, Solution & Enterprise Architecture
+Students learn the concepts and principles about how a software system is constructed at the highest level. Software architecture is the fundamental design of the entire system. It defines what elements are included in the system, what function each element has, and how each element relates to one another. In short, it is the big picture or overall structure of the whole system, how the enterprise technology system works together. Having a clear design of the overall system as a starting point helps to provide a solid basis for developers to follow and it allows higher productivity and software quality. Students immerse themselves into architecture understanding from multiple perspectives through various UML diagrams including different software architectures frameworks, when and how they are used, their advantages and disadvantages. Software architecture is tied to many practical business concerns. These include the skills and organization of the software engineering team, the needs of the business, the development cycle, and the intent of the software itself.
+===
+Additional Technical Elective:
+EGRMGMT 590-03: Software Business Management
+In today’s world software is pervasive in most if not all companies. A software business is a commercial activity aimed at producing, buying, and selling software products or services. Well-run software companies are known for their high profit margins. This course will focus on understanding the key success factors for software organizations to drive their portfolio strategy by mapping out monetization models, pricing, vendor management, professional services, development & continuous delivery, road mapping & maintenance.
+===
+Additional Technical Elective:
+EGRMGMT 590-05: Software Business Management
+In today’s world software is pervasive in most if not all companies.  A software business is a commercial activity aimed at producing, buying, and selling software products or services.  Well-run software companies are known for their high profit margins. This course will focus on understanding the key success factors for software organizations to drive their portfolio strategy by mapping out monetization models, pricing, vendor management, professional services, development & continuous delivery, road mapping & maintenance.
+===
+Additional Technical Elective:
+STA 640: Causal Inference
+Statistical issues in causality and methods for estimating causal effects. Randomized designs and alternative designs and methods for when randomization is infeasible: matching methods, propensity scores, longitudinal treatments, regression discontinuity, instrumental variables, and principal stratification. Methods are motivated by examples from social sciences, policy and health sciences.
+===
+Additional Technical Elective:
+STA 663: Statistical Computation
+Statistical modeling and machine learning involving large data sets and challenging computation. Data pipelines and data bases, big data tools, sequential algorithms and subsampling methods for massive data sets, efficient programming for multi-core and cluster machines, including topics drawn from GPU programming, cloud computing, Map/Reduce and general tools of distributed computing environments. Intense use of statistical and data manipulation software will be required. Data from areas such as astronomy, genomics, finance, social media, networks, neuroscience.
+===
+AIPI 549: Industry Project
+Students will work in teams of 3-5 to complete a Machine Learning/Artificial Intelligence project for a company sponsor around a real-world problem or opportunity they are facing. The project will require students to put into practice many of the skills learned during the program, including both technical and non-technical.  Students will have the opportunity to engage directly with representatives from their company partner organization as well as receive guidance from Duke faculty members over the course of the project.  The team will present their final deliverables to a sponsor panel and/or an external review panel.
+===
+MENG 550: Master of Engineering Internship or Project
+Internships are typically 8-12 weeks. The minimum hourly requirement for the internship is 320 hours, equivalent to 8 weeks, 40 hours per week. Projects require approval from the AIPI program director. Projects must fulfill the same learning objectives as internships. Although students are responsible for finding their own internship, Duke provides an experienced career development team to help with your search.
+
+All internships/projects must:
+- Apply engineering principles to solving one or more problems outside the classroom environment
+- Define a problem and determine potential solutions
+- Appreciate the importance of organizational dynamics and work relationships
+- Practice professional communication both written and orally
+- Complement material presented in the AIPI courses
+- Include a self-assessment upon completion in AIPI 551
+===
+MENG 551: Master of Engineering Internship or Project Assessment
+This assessment course is the culmination of your internship or project work. You will prepare a substantive assessment of your internship or project experience via a written report and/or oral presentation. 
+A polished analysis should include:
+- Problem or task conducted
+- Challenges faced
+- Solutions incorporated
+- Workplace communication and interpersonal relationship critique
+- Individual performance review
+===
+What Tech Leaders Are Saying
+About Duke's AI Master of Engineering
+
+“There is a growing need for engineers with domain knowledge plus machine learning skills, and Duke’s AI for Product Innovation master's and certificate programs help address that need with its focus on developing leaders who can apply advanced analytics to create new products & services.”
+
+ADNAN HAIDER 
+ASSOCIATE PARTNER, ADVANCED ANALYTICS & AI, IBM
+2008 DUKE ENGINEERING MASTER'S GRADUATE
+===
+What Tech Leaders Are Saying
+About Duke's AI Master of Engineering
+
+“The strength of Duke’s reputation in AI and Machine Learning, combined with the focus on applying these technologies to solve the world’s big challenges in healthcare, retail, energy and beyond, make Duke the logical choice for someone interested in pursuing education in this space.” 
+
+TARUN THAPAR
+SENIOR PRODUCT MANAGER-PERSONALIZATION, WAYFAIR
+2015 DUKE ENGINEERING MASTER'S GRADUATE
+===
+Graduate Outcomes
+Boost your career trajectory with Duke AI Master of Engineering
+
+Duke AI students go into some of the most in-demand and exciting job roles available.  The most common job titles for graduates are: ML Engineer / Senior ML Engineer, AI Engineer, and Data Scientist / Senior Data Scientist.  Our program has a 100% placement rate within 6 months of graduation. Our median starting salary for graduates over the past 2 years is $118,000 and compensation varies based on location and prior work experience.
+
+Our best-in-class student experience includes access to a dedicated career services team, networking opportunities, and employer recruitment events.
+
+SELECTED GRADUATE EMPLOYERS
+Our students join organizations leading the way in AI/ML
+
+OpenAI
+Target's AI Lab
+Eli Lilly
+Grubhub
+Samsung
+IBM
+DoorDash
+Fidelity
+Intuit
+AutoDesk
+Ancestry
+Morgan Stanley
+GE
+And many more
+BROWSE EMPLOYMENT DATA
+See employer names and job roles
+https://public.tableau.com/app/profile/pratt.school.of.engineering/viz/FirstEmploymentforMastersPrograms/FirstEmploymentUS
+===
+On Campus New Student Checklist
+In order to help set you up for a successful transition, we have put together a New Student Checklist for new Pratt graduate and professional students. Click on the arrow by each task to expand the section for more information and be sure to pay very close attention to the noted deadlines!
+
+FALL 2024 CAMPUS STUDENTS:
+
+1. Accept Your Offer of Admission
+2. Activate Your NetID and Set Up Your Duke Email – when available!
+3. Submit Visa Documents (international students) - when available!
+4. Research Local Housing Options - immediately!
+5. Register for Courses - opens April 3
+6. Submit Immunization Form and TB Questionnaire - by June 15
+7. Review Transportation and Parking Options - by July 15
+8. Review Student Medical Insurance Requirements - by July 15
+9. Upload Your Photo for Your Mobile DukeCard - by July 15
+10. Enter in Your Preferred Name and Pronouns - by July 15
+11. Request Disability Access or Services, if necessary - by July 15
+12. Submit Official Transcript - by August 1
+13. Familiarize Yourself with Duke Technology Resources - by August 1
+14. Review Duke Community Standard - by August 1
+15. Arrive in Durham - as early as possible
+16. Download your Mobile DukeCard - by August 15
+17. Attend New Student Orientation - August 19
+===
+Online Student New Student Checklist
+In order to help set you up for a successful transition, we have put together a New Student Checklist for new Pratt graduate and professional students. Click on the arrow by each task to expand the section for more information and be sure to pay very close attention to the noted deadlines!
+
+FALL 2024 ONLINE STUDENTS:
+
+1. Accept Your Offer of Admission
+2. Activate Your NetID and Set Up Your Duke Email – when available!
+3. Register for Courses - opens April 3
+4. Enter in Your Preferred Name and Pronouns - by July 15
+5. Request Disability Access or Services, if necessary - by July 15
+6. Submit Official Transcript - by August 1
+7. Familiarize Yourself with Duke Technology Resources - by August 1
+8. Review Duke Community Standard - by August 1
+9. Attend New Student Orientation - Varies by Program
+===
+1. Accept Your Offer of Admission
+Master of Engineering and Master of Engineering Management Students: Officially reserve your place by accepting the offer of admission.
+
+Admitted students in Artificial Intelligence, Cybersecurity, Engineering Management, Game Design, Design Technology & Innovation, and Financial Technology must also submit a non-refundable $600 Enrollment Deposit. Make a secure payment via Cybersource for your Duke Enrollment Deposit. Only credit card payments are accepted. Submit your Enrollment Deposit Now and then continue with the new student checklist.
+
+Master of Science and PhD Students: If you are a Master of Science or PhD student, The Graduate School requires that you accept your offer of admission  by April 15 or within 15 days of receiving your admission notification, whichever is later. For more information about the required steps, visit The Graduate School’s website or contact grad-admissions@duke.edu for assistance.
+===
+2. Activate Your NetID and Set Up Your Duke Email – when available!
+You should receive a separate email from the Office of Information Technology (OIT) with instructions to set up your NetID and email alias. Your NetID is your electronic key to online resources, including your Duke email account, DukeHub (course registration/grades), MyDuke (student portal), Box cloud storage and more. Please do this as soon as you receive this email. 
+
+Visit this SITE to learn how to access your Duke email account. Once you have access to your Duke email, begin the practice of checking and using this address. Your Duke email address will become the primary source for all communications from Duke. 
+
+Master of Engineering and Master of Engineering Management Students: If you are a Master of Engineering or Master of Engineering Management student, you should receive these instructions from OIT after your matriculation has been processed. Contact pratt_masters@duke.edu with questions.
+
+Master of Science and PhD Students: If you are a Master of Science or PhD student, The Graduate School will not matriculate you until they have receipt of your official transcript and/or visa paperwork (if applicable). You may visit this LINK for more information or contact grad-admissions@duke.edu for assistance.
+===
+3. Submit Visa Documents (international students) - when available!
+International students requiring a visa must submit all required documents to the Pratt School of Engineering (for MEng and MEM programs) as soon as you are able! You will be contacted in a separate email about these requirements. 
+
+Master of Science and PhD students must submit all required documentation to The Graduate School, visit this LINK for more information.
+===
+4. Research Local Housing Options - immediately!
+CONGRATULATIONS! On behalf of the Office of Student Affairs, welcome to Duke and Durham, North Carolina. As your new home, Durham is a vibrant community with a lot to enjoy. To begin your housing search, we’ve listed below some tips, resource links, and suggestions for you. We hope you find this helpful!
+
+WHERE CAN I BEGIN MY HOUSING SEARCH?
+
+A useful search engine to find housing close to Duke’s campus is:  https://neardukeguide.com/pratt.
+DukeList (Duke netID required for login) allows Duke community members to post ads for both housing and roommates, as well as items for sale and services.
+Lancaster Commons is an apartment complex reserved entirely for Duke graduate & professional students.
+Duke Housing & Residence Life has limited, on-campus apartments available for rent for graduate and professional students. Please direct inquiries to housing@duke.edu.
+The Off Campus & Community Housing Office is here to support students who live off campus.
+WHERE CAN I FIND INFORMATION ABOUT THE SAFETY OF LOCAL HOUSING OPTIONS?
+
+Review the Durham Crime Statistics & Community Crime Map in advance of selecting a neighborhood, complex, or house. You can search the Community Crime Map by address.
+Browse apartment or neighborhood reviews (google reviews, apartmentratings.com, or connect with current Duke student residents through your program, department, or school).
+Ask the apartment management or landlord about safety protocols they have in-place for their residents. Ex: Is your apartment community gated? Do you utilize cameras in exterior locations? What type of crime preventative measures is your apartment complex taking?
+Review Duke’s emergency notification system, Duke’s safety mobile app (LiveSafe), and tips from Duke Police for personal safety.
+WHAT ELSE SHOULD I CONSIDER?
+
+Budget: Consider affordability. Setting a realistic budget for your expenses and housing is important. Be forewarned, the least expensive options may have downsides associated with safety, noise, or lack of amenities.
+ Transportation: If you have a car, your off-campus housing search can include places in the broader Durham area. If you won’t have a car, consider living close to campus and understand your options for getting around:
+Duke bus routes – free to all students
+Duke Vans – late evening, free rides from campus to apartments/houses within 2 miles of campus.
+Durham & Triangle area bus routes – free with GoPass
+Uber / Lyft – reliable ride-share in the area
+Bicycles, Scooters, and Walking
+Furniture: Most apartments or houses are unfurnished; furnished units may cost more. Many students rent furniture
+from CORT Furniture or AFR Furniture Rental.
+Personal Property: Consider protecting your personal belongings with Renter’s Insurance.
+Amenities: Complexes in the area will offer a range of services (gated entrance, gym, computer workstations with printers, cable TV, Amazon locker pick-up, etc). Understand what is included in your monthly rent.
+WHAT ARE MY RIGHTS AS A TENANT?
+
+Know your rights as a tenant and the responsibilities of a landlord.
+The Durham NC Tenant Training Manual provides detailed information about local Landlord and Tenant responsibilities.
+The US Department of Housing and Urban Development also provides information about tenant protections.
+Disclaimer: This guide is intended for general informational purposes only.
+
+Duke University does not recommend or endorse any landlords, tenants, or rental facilities.
+===
+5. Register for Courses - opens April 3
+Course registration for Master of Engineering and Master of Science students officially opens for the Fall 2024 semester on April 3.  Students enroll in courses through DukeHub. The Office of the University Registrar has a number of GUIDES to help you navigate through the registration process. Note: some of our programs recommend that you meet with your academic advisor before performing your course registration. Before taking action, you should consult with your program or department staff for further instructions. 
+
+Master of Engineering Management students should NOT register for courses at this time. You will receive further details in mid-to-late June about your cohort placement and required course sections before you are permitted to register for elective courses. 
+
+PhD students should consult with their individual department before registering for courses.
+===
+6. Submit Immunization Form and TB Questionnaire - by June 15
+All Duke students who will reside in North Carolina must comply with Duke University’s Immunization Requirements and submit the Mandatory Immunization Requirements Form and TB Screening Questionnaire by June 15.  Detailed instructions are available for all of these requirements HERE.
+
+If you are unable to complete your immunization requirements before arriving, you will be required to schedule an individual appointment to receive your immunizations on campus. Students will be withdrawn from the University 30 days after classes begin if the mandatory immunization and TB requirements have not been met.  Pratt does not monitor the submission of immunization forms nor do we know whether Student Health has received your form. If you have questions about your submission, please email the Student Health Immunization Compliance Coordinator at:  immunizations@duke.edu.  It may also be helpful to reference the Frequently Asked Questions page for answers to commonly asked questions.
+===
+7. Review Transportation and Parking Options - by July 15
+If you plan to drive a car while in Durham, parking on campus is a challenge -even for staff! You may apply to purchase a parking permit HERE. Luckily there are also numerous free bus routes, biking, carpool programs, and walking options. To learn more about your parking options on campus, visit Duke’s Parking & Transportation webpage.
+
+The Duke Bus System is FREE. You may get on and off Duke buses at no cost. Duke’s GPS transit system allows real-time location data for Duke buses. Duke community members and visitors can use a computer or mobile device to track buses at any of the 113 bus stops on and around campus. Visit this website to track buses or download the TransLoc Rider app.
+===
+8. Review Student Medical Insurance Requirements - by July 15
+All students are required to maintain adequate medical insurance during their enrollment at Duke. International Students: Students on F-1 or J-1 visas are automatically enrolled in the Duke Student Medical Insurance Plan (SMIP). Domestic Students: Domestic students can choose the SMIP or complete the waiver process if you will be covered by other health insurance. To learn more about the SMIP Health Insurance, the following websites are available:
+General Information 
+Plan Benefits
+Frequently Asked Questions (FAQ) 
+If you have specific questions regarding the SMIP that are not listed on the website, please send an email to insurance@studentaffairs.duke.edu or call 919-684-1481.
+===
+9. Upload Your Photo for Your Mobile DukeCard - by July 15
+New students must upload a photo for their Mobile DukeCard by going to this LINK.  Photos should be  submitted before July 15.
+===
+10. Enter in Your Preferred Name and Pronouns - by July 15
+The class list that professors and advisors use to address their students can be updated to include your preferred name and preferred pronouns. 
+
+Preferred Name: please log into DukeHub, then click on the tab that says “My Profile.” On that page, go to “Biographical Information”. To add a preferred name, select “Add Name” and then select “Preferred” name type. Enter information for preferred name and save. A message will display indicating “Success – Preferred name was updated”. 
+
+Preferred Pronouns: please log into DukeHub, then click on the tab that says “My Profile.” On that page, go to “Biographical Information”. To add gender pronouns click on the pencil icon, which will provide a drop-down of choices. You may choose one of these values. If the pronouns you use are not listed, or you use more than one set of pronouns, use the “Enter My Own” Option to share your pronouns then save. A message will display indicating “Success – Personal pronoun was updated”. 
+===
+11. Request Disability Access or Services, if necessary - by July 15
+The Student Disability Access Office (SDAO) recognizes
+disability as an aspect of diversity that is integral to society and to our campus community. Accessibility is an essential feature of the Duke campus, and we strive to create an inclusive community for our students. We strive to ensure that students with disabilities are provided the tools they need to fully access all aspects of student life inside and outside of the classroom.
+
+The SDAO is committed to providing educational opportunities for students with disabilities in compliance with Section 504 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990 (ADA), and the ADA Amendments Act of 2008.
+
+The first step in receiving consideration for an accommodation is to submit a request.
+===
+12. Submit Official Transcript - by August 1
+All incoming engineering master’s students must submit
+official transcripts to enroll at Duke. Submit all official transcripts by August 1.
+
+MEng and MEM students 
+MS students and PhD students (follow submission directions sent directly by the Graduate School)  
+===
+13. Familiarize Yourself with Duke Technology Resources - by August 1
+There are a number of technology tools you will want to become familiar with before you arrive! Some of the most commonly used tools can be found HERE. There are also a number of software products that Duke offers for free or at a reduced price, these are available HERE. Additionally, through an agreement with Microsoft, engineering master’s students can access a suite of Microsoft Products not available to the broader Duke Community.
+===
+14. Review Duke Community Standard - by August 1
+Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity. To uphold the Duke Community Standard:
+I will not lie, cheat, or steal in my academic endeavors;
+I will conduct myself honorably in all my endeavors; and 
+I will act if the Standard is compromised. 
+All students are required to adhere to these principles and conduct themselves in accordance with these values. We ask that you take some time to review the  Duke Community Standard by August 1.  
+===
+15. Arrive in Durham - as early as possible
+The first day of Fall 2024 classes at the Pratt School of Engineering will be Monday, August 26*.
+
+It is recommended that you arrive in the area as early as possible so you can ensure that any outstanding immunizations and/or forms are complete prior to welcome/orientation activities and the start of classes. 
+
+The closest airport to Duke University is Raleigh-Durham International Airport (RDU). Taxis, Uber, Lyft, and additional transportation services are all readily available from RDU. Duke is approximately 30 minutes from the airport.
+===
+16. Download your Mobile DukeCard - by August 15
+Your mobile DukeCard is one of the most important tools you have while you are studying at Duke. This card is a mobile photo ID, with your name and unique ID number on it. With your mobile DukeCard, you can access academic buildings, recreational facilities, library books, parking lots, campus events, and campus photocopying. To download a mobile DukeCard, students must first submit a photo. After email approval for that photo is received, then students are able to download a mobile DukeCard.* Students will not automatically receive a physical DukeCard. A Mobile DukeCard has replaced a physical card; however, those who will be working in a lab or the Medical Center and require prox access can request a physical card for the Duke Card Office.  An individual appointment is required. Click HERE to schedule. 
+===
+17. Attend New Student Orientation - August 19
+Graduate Student Programs and Services and each program/department will begin hosting New Student Orientation sessions for all incoming Fall 2024 graduate and professional students starting on Monday, August 19.  More information will be sent to you via email regarding these events in mid July. 
+
+If you are a Master of Science or PhD student, you will also hear directly from The Graduate School about additional onboarding requirements during that week.
+
+All new students should plan to be settled in the area and prepared to particiate in events by Monday, August 19.
+===
+Academic Preparation
+While some of our students come directly from undergraduate programs which focus heavily on programming and/or math, many students come from other branches of engineering, science or medicine, or join our program after a few years of industry experience.  Spending some time before the Fall semester start brushing up on your programming (Python preferable) and math skills will help make the learning curve a bit easier once classes start.  If you are not comfortable with Python programming and math (calculus, probability and statistics, basic linear algebra), we highly recommend pursuing some independent study before the Bootcamp begins in July.  To assist you we have compiled the following recommended resources, all of which are free or low-cost and available online.
+
+Programming:
+Python for Everybody Specialization, University of Michigan – Coursera.  Introductory-level set of courses on programming in Python.  Free to audit each course
+Math
+Data Science Math Skills, Duke University – Coursera.  Covers the basics of calculus and probability/statistics.  Free to audit
+Introduction to Applied Linear Algebra. Stanford University.  View the lectures free via YouTube (click on “lecture videos”) and/or read the first half of the book – free to download the pdf version. Provides a gentle introduction to key concepts from linear algebra which are needed for data science.
+===
+How do I register for classes?
+All students register for classes through DukeHub, the self-service application that provides students with an array of information and direct access to academic, financial, and personal data. Access to DukeHub is gained using your NetID and password.
+===
+What classes outside of the AIPI curriculum can I count toward my technical electives requirement?
+Approved AIPI electives are listed on the AIPI website.  Additionally, students may take technical electives in other programs and departments across campus with approval from both the course instructor and the AIPI Director. Please note that graduate courses outside of AIPI require an instructor’s permission to enroll, and it is ultimately at the instructor’s discretion to determine whether or not AIPI students will be allowed into a particular class.
+===
+Can I audit classes? 
+Yes, AIPI students may audit courses on a space-available basis with consent of the instructor and the AIPI Director. Audited courses appear on your transcript and you will receive a grade of AD (indicating successful completion) that will not count toward your GPA. Audited courses do not count toward the fulfillment of AIPI degree requirements.
+===
+How many classes can I audit per semester?
+AIPI students may audit up to two courses per semester. 
+===
+How many classes should I register for? 
+In order for international students to remain in compliance with their F-1 visas, they must be registered as a full-time student. For visa purposes, full-time enrollment is considered 9.0 credits per semester (equivalent to three 3.0-credit courses). However, a typical full-time load for AIPI Campus students is 12.0 credits per semester (four 3.0-credit courses). Therefore, full-time residential graduate students pay tuition on a flat-rate, per-semester billing basis and are charged the equivalent of 12.0 credits per semester. Most full-time students enroll in at least 12.0 credits per semester.  AIPI Campus students take a fixed set of 4 courses in Fall semester (AIPI 510,520,530 and MENG 570).  AIPI Online students typically take 2 courses per semester (Fall: AIPI 510,520) and AIPI Certificate students take 1 course/semester (Fall: AIPI 510).  Online students pay tuition on a per-credit basis rather than a flat-rate per-semester basis.
+===
+What is the limit on credits I can take each semester?
+AIPI students may take up to 15.0 credits per semester. Full-time residential students on the pay-by-semester basis may take a fifth credit for free each semester (although we generally suggest a maximum of 4 courses as the workload can be intense). Students who attempt to enroll in more than 15.0 credits per semester will not be able to register.
+===
+What is Drop/Add? What happens during the Drop/Add period?
+The Drop/Add period occurs after the initial Registration window and continues until the end of the second week of classes. During the Drop/Add period, students may make changes to their schedules through DukeHub. At the end of the Drop/Add period, students’ schedules may no longer be changed in DukeHub and can only be changed with permission from their dean.
+===
+For Campus students, is there a formal process for selecting between the 12-month and 16-month plan?
+No, there is no specific documentation that must be provided if you choose to extend the AIPI Program to three semesters. However, the earlier you make the decision the better as it will likely affect your selection of courses in Fall and Spring semesters.
+===
+How long do classes meet? How frequently do classes meet? 
+Each course typically meets once per week for 2 hours and 45 minutes. 
+===
+How much time is required outside of class for AIPI courses?
+AIPI classes are challenging and require significant work outside of class. Each week, you should expect to spend between 8-10 hours per course working outside of class.
+===
+Is there a formal process for designating my elective track? 
+No, there is not currently a formal process to designate your elective track. We do not require students to rigidly adhere to one elective track. Students may choose electives that fit their professional goals. The elective tracks are meant as guides for students to align and develop skills toward a particular area, and those students who complete a track may list it on their resume.
+===
+What do I do if I want to change my elective track?
+If you wish to change your elective track, there is no formal action that you need to take. However, it is a good idea to speak with the program director about your elective course plans, as they can help steer you toward courses that align with your professional aspirations.
+===
+How much does it cost to audit a course? 
+For AIPI students who pay tuition on a pay-by-semester basis (as is the case for all full-time residential AIPI students), there is no charge for auditing a course. For AIPI Online students who pay tuition on a pay-by-credit basis, there is a charge of $535 per audited course.
+===
+How are tuition and fees assessed for AIPI students?
+Full-time students in the AIPI Campus Program are automatically set up on a pay-per-semester billing system, meaning they will be charged the equivalent of four separate courses. Students enrolling as AIPI Online and Certificate students will automatically be set up for payments on a per-credit basis. 
+===
+Is financial aid available to AIPI students? 
+Because the AIPI degree is a professional degree rather than a research degree, most students pay their own tuition costs.
+===
+How do I get a Teaching Assistant (TA) position?
+Teaching assistantships are a common way that AIPI students can work on campus, earn money, and give of their time to the AIPI community. Most often, course instructors approach students who have done well in their course and ask them to TA in a subsequent semester. Other times, students will voice their interest to the instructor to initiate the conversation about a TA position. Toward the beginning of each semester, there are usually a few TA positions to be filled, and an announcement about open positions will be emailed out to students. TA positions are not often available for incoming students, as these positions are typically filled by continuing students who have taken the course before.
+
+In order to be on Duke’s payroll, all students must have a Social Security Number on file. If a student intends to work on campus and be paid as an employee of the University, then that student should plan to apply for a Social Security Number. More information about applying for a Social Security Number may be found here.
+===
+What other employment positions are available for students on campus? 
+In addition to Teaching Assistantships, AIPI students can work in a variety of roles around campus, such as the campus libraries and various departments within Duke. Some departments have research assistantships as well. These positions are paid at an hourly rate, and some positions are posted and filled just a week or two before classes begin each semester. DukeList is the best place to look for these opportunities, but other opportunities may be advertised via email or word-of-mouth. 
+===
+Where can I find information about student employment?
+DukeList is the best place to look for these opportunities, but other opportunities may be advertised via email or word-of-mouth. Please see DukeList for more information: https://dukelist.duke.edu/
+===
+I’m an international student. Can I work off-campus?
+International students on F-1 visas are not permitted to work off-campus except as part of their Curricular Practical Training (CPT). Students who are F-1 visaholders may work in on-campus positions, such as teaching assistantships, but must have a Social Security Number to be on Duke payroll.
+===
+How do I get my NetID and password?
+You should receive a separate email from the Office of Information Technology (OIT) with instructions to set up your NetID and email alias. Your NetID is your electronic key to online resources, including your Duke email account, DukeHub, Sakai, MyDuke, Box cloud storage, and more. Please set up your NetID as soon as possible.
+===
+When will I get access to my Duke email?
+Once you set up your NetID (see above), you will be able to access your email. This site provides information about how to access your Duke email account. Once you have access to your Duke email, please begin checking and using this address. Your Duke email address will become the primary source for all your communications from Duke.
+===
+What can I do this summer to prepare for the AIPI program?
+While some of our students come directly from undergraduate programs which focus heavily on programming and/or math, many students come from other branches of engineering, science or medicine, or join our program after a few years of industry experience.  Spending some time before the Fall semester start brushing up on your programming (Python preferable) and math skills will help make the learning curve a bit easier once classes start.  If you are not comfortable with Python programming and math (calculus, probability and statistics, basic linear algebra), we highly recommend pursuing some independent study before the Bootcamp begins in late July.  
+===
+Pratt Commonly Used Acronyms
+Pratt Commonly Used Acronyms
+PRATT SCHOOL AND UNIVERSITY REFERENCES:
+
+AC:        Academic Council (University)
+
+APC:     Academic Program Committees (University)
+
+BOT:      Board of Trustees
+
+BOV:      Board of Visitors
+
+EAC:      Engineering Administrative Council (Pratt)
+
+EFC:       Engineering Faculty Council (Pratt)
+
+ESC:      Engineering Staff Council (Pratt)
+
+DEPARTMENT SPECIFIC REFERENCES:
+
+DGS:      Director of Graduate Studies
+
+DGSA:   Assistant to the Director of Graduate Studies
+
+DMS:      Director of Masters Studies
+
+MC:        Master’s Coordinator
+
+DUS:      Director of Undergraduate Studies
+
+DUSA:    Assistant to the Director of Undergraduate Studies
+
+DEPARTMENTS, CENTERS, PROGRAMS, AND FACILITIES:
+
+BME:      Biomedical Engineering Department
+
+CEE:      Civil and Environmental Engineering Department
+
+ECE:      Electrical and Computer Engineering Department
+
+MEMS:   Mechanical Engineering and Materials Science Department
+
+AFLOW: Automatic – FLOW for Materials Discovery (formerly Center for Materials Genomics)
+
+CAGT:    Center for Advanced Genomic Technologies
+
+CBTE:    Center for Biomolecular and Tissue Engineering
+
+CEINT:   Center for the Environmental Implications of NanoTechnology
+
+CGWHT: Center for Global Women’s Health Technologies
+
+CMIP:     Center for Metamaterials and Integrated Plasmonics
+
+DAP:      Woo Center for Big Data and Precision Health
+
+D&I:        Diversity & Inclusion
+
+EMP:      Engineering Master’s Programs
+
+EngEn:   Engineering Entrepreneurship
+
+FinTech: Master of Engineering in Financial Technology
+
+FIP:        Fitzpatrick Institute for Photonics
+
+FYD:       First Year Design
+
+MedX:     Medicine & Engineering at Duke
+
+MEng:     Master of Engineering
+
+MEMP:   Master of Engineering Management Program
+
+MESI:     Materials Science & Engineering Initiative
+
+MITP:     Medical Imaging Training Program
+
+SMIF:     Shared Materials Instrumentation Facility
+
+WaSH-AID: Center for Water, Sanitation, Hygiene and Infectious Disease
+===
+nterview Rooms
+Two rooms are available to individuals needing a private space for virtual job interviews. These room are Hudson 1114 and CIEMAS 3559. 
+
+These rooms can be booked on a first-come first-served basis via Outlook, and are dedicated solely for use by engineering master’s students.
+
+In using Hudson 1114 and CIEMAS 3559, please observe the following:
+
+–       Outlook Scheduling: These spaces can be booked by entering the room number under “Location” in an Outlook calendar invite, and then searching for availability (detailed instructions are available HERE).  When booking a room, it is recommended that you include a small amount of buffer time before and after your interview time to avoid potential overlap with others.
+
+–        Directions:  Below are floor plans to guide you to Hudson 1114 and CIEMAS 3559. 
+
+–      Amenities:  There is a desk in each room along with a power outlet for your laptop.  There are no monitors or other equipment in the rooms.  There is a strong wi-fi signal.
+
+–       Waiting Area: If you arrive early for your time slot, please find a space outside to sit so you do not disturb the current occupant.
+
+–        General Etiquette:  Below is a summary of general etiquette norms for the interview rooms.
+===
+Technology
+Duke Box
+
+Duke’s Box is your cloud-based storage and collaboration service at Duke. It serves all Duke University students. With Box, you can access, store, and share content securely with Duke and non-Duke users – anywhere, anytime, on any device.
+
+Dukeblue
+
+Dukeblue is a secure wireless network which uses authentication to protect your Duke NetID and password, and to ensure your data and transactions are secure. It provides encrypted transmission of data, meaning information cannot be intercepted while it is in transit between laptops or phones, and Duke’s mail network.
+
+DukeMobile
+
+The DukeMobile app now has interactive campus navigation. Get all the best information about Duke using the menu. The DukeMobile app is available for Apple and Android wherever you download apps.
+
+Duke Software for Students
+
+Duke negotiates with vendors to make software available to the Duke community for discounted rates or, in many cases, for free.
+
+Duo
+
+Duo is a service you use for multi-factor authentication. Register a device with Duo, and then choose one or more methods by which to authenticate.
+
+ePrint
+
+The ePrint system enables students to print from computers and devices to hundreds of print stations throughout campus. You need to have the ePrint client software (link is external) installed on your computer.
+
+Internal Directory
+
+The Duke internal directory is your electronic phone book for Duke students, faculty, staff, and affiliates. Open to users on the Duke network as well as NetID users off campus, the internal directory provides information like addresses, phone numbers, Duke Unique IDs, and NetIDs.
+
+LinkedIn Learning
+
+Duke students can access the entire LinkedIn Learning online training library anytime, anywhere.
+
+Microsoft Software Access
+
+Through an agreement with Microsoft, the Engineering Masters Students and Faculty can access a suite of Microsoft Products not available to the broader Duke Community.
+
+Qualtrics
+
+Create surveys, polls, questionnaires and forms using advanced and easy-to-use survey software. You can quickly sign-up for a Qualtrics account at no-cost using your Duke credentials.
+
+Sakai
+
+Duke Sakai connects students and faculty at Duke to support teaching and learning activities.
+
+Zoom
+
+Use Zoom to meet using video, voice, and screen sharing with colleagues across the campus or around the world. Zoom is available automatically for Duke University students.
+===
+Duke Community Standard
+The Duke Community Standard:
+
+Duke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. Citizens of this community commit to reflect upon and uphold these principles in all academic and nonacademic endeavors, and to protect and promote a culture of integrity.
+
+To support the Duke Community Standard, students affirm their commitment to uphold the values of the Duke University community by signing a pledge that states:
+
+I will not lie, cheat, or steal in my academic endeavors;
+I will conduct myself honorably in all my endeavors;
+I will act if the Standard is compromised
+===
+MENG and MEM Supplemental Internship Courses
+Two new supplemental internship courses have been approved and will be available beginning in Fall 2023. These courses are designed to provide an opportunity for students to perform a part-time internship (19.9 hours limit) during the fall or spring semester once a student has completed their required program internship. We anticipate this being most valuable for international students who are asked to continue a summer internship into the fall semester, but applies to any part-time internships and so students could complete an internship for company A over the summer and do another part-time internship for company B in the Fall. Additionally, there is also an opportunity to have the fall internship continue over winter break for students that are not graduating. Note: since there are not separate classes over winter break, it is not possible to get CPT for only working over the winter term.
+
+We are excited to be able to add these new classes because these were previously difficult for MENG and MEM international students. Through this course, international students will be able to use CPT for work authorization for additional internship experiences. MS students wanting additional internship experiences can continue to use their departmental internship courses (BME  789 – Internship in Biomedical Engineering, CEE  780 – Internship, ECE  891 – Internship, ME  758S – Curricular Practical Training).
+
+ Here are a few details about these classes that you should keep in mind:
+
+You must have completed your required internship first. (EGRMGMT 550 or MENG 550 is a prerequisite.)
+The work should be part-time (< 19.9 hours per week) in the Fall and Spring terms and can be part-time or full-time in the summer/winter break.
+International students are required to be a residential student in Durham for classes taken in the Fall and Spring semesters. Therefore, the work must be local or remote.
+This is a 3 unit class and will count toward your 9 unit full-time status requirement.
+This course is NOT tuition bearing. Students will not be charged tuition for this course
+If this is your last semester of study, this course does not fulfill the 1 unit tuition bearing requirement for MENG or the 3 unit tuition bearing requirement for MEM students.
+These units do NOT count toward the 30 units required for your MENG or MEM degree 
+ You can take this class multiple times and so for, example, could take it in both in the Fall and Spring semesters of your second year.
+Students will want to monitor their total CPT work experience. Students who use 12 months or more of full-time (20 or more hours per week) CPT will have no available time for Optional Practical Training (OPT).
+Standard CPT rules apply https://visaservices.duke.edu/categories/f1/cpt in that international students need to have completed one academic year (2 semesters) of study in the US prior to be eligible for CPT.
+If you want to take this course in the fall, please sign up for the section associated with your program. Also, there will be two different sections per program. One labeled “Graduating” and the other “Continuing.” Please note that if you are graduating in Fall 2023 and register for this class you must register for the “Graduating” section and your internship must end by the end of the semester.
+
+If you need CPT, you will need to apply for CPT for the summer internship and fall internship separately, meaning you would need one offer letter to participate in the summer internship and a separate offer letter to participate in the fall internship (listing applicable employment dates and work hours). Additionally, if you are a continuing student and want to work over winter break, you may do so part-time and your offer letter must define the range of dates that you will be working, with the latest date being the day before the start of the Spring semester.
+
+Please work with Cherie Creten (cherie.createn@duke.edu) and follow the same procedure as you did for a summer internships.
+
+If you have questions, please contact Associate Dean of Master’s Programs, Brad Fox at: brad.fox@duke.edu
+
+Course Descriptions: 
+
+EGRMGMT 552: Engineering Management Supplemental Internship
+
+A three-credit internship which requires participation with a cooperating organization, whether local or distant, involving a well-defined set of tasks. Part-time or full-time employment in an appropriate capacity may be utilized for this internship. This course is an elective. Enrollment in the Master of Engineering Management Program is required. EGRMGMT 550 is a prerequisite. Credit/no credit grading only. May be repeated with consent of program director or advisor. (3 units) 
+
+ MENG 552: Master of Engineering Supplemental Internship
+
+A three-credit internship which requires participation with a cooperating organization, whether local or distant, involving a well-defined set of tasks. Part-time or full-time employment in an appropriate capacity may be utilized for this internship. This course is an elective. Enrollment in the Master of Engineering Program is required. MENG 550 is a prerequisite. Credit/no credit grading only. May be repeated with consent of program director or advisor. (3 units) 
+===
+MENG 540 & 570
+BUSINESS PREPARATORY COURSES
+The industry preparatory courses provide Master of Engineering students with the business skills they need to succeed in industry. The core industry preparatory courses are:
+
+Management of High Tech Industries (MENG 540) – significant principles of strategic decision making in complex environments, project analysis, intricate investment analysis, and the role of the manager in expertise driven organizations
+
+Business Fundamentals for Engineers (MENG 570) – essentials of intellectual property, marketing, accounting/finance, and business strategies for technology companies
+===
+MENG 540:
+MANAGEMENT OF HIGH TECH INDUSTRIES
+Instructor(s): Ted Ryan, Allegra Jordan, La Tondra Murray, Wendy Corbett
+
+Semester(s) typically taught: Fall and Spring
+
+Last taught: Spring 2023
+
+Units: 3.0
+
+Grading scale: Graded (A-F)
+
+Required or elective for MENG degree? Required
+
+Pre-requisites: Enrollment in MENG Program
+
+Recommended previous courses: n/a
+
+Cross-list: EGRMGMT 540
+
+Course Description/Synopsis (from DukeHub) 
+
+Decision making in complex environments; emphasis on project analysis, complex investment analyses, strategic decision making where outcomes depend on high technology, and the role of decisions in product development. Management in high tech firms; emphasis on management of professionals, management of project based and team-based organizational structures, and the role of the manager in expertise driven organizations.
+===
+MENG 570:
+BUSINESS FUNDAMENTALS FOR ENGINEERS
+Instructor(s):  Peggy Matson, Richard Telford
+
+Semester(s) typically taught: Fall and Spring
+
+Last taught: Spring 2023
+
+Units: 3.0
+
+Grading scale: Graded (A-F)
+
+Required or elective for MENG degree? Required
+
+Pre-requisites: Enrollment in MENG Program
+
+Recommended previous courses: n/a
+
+Course Description/Synopsis (from DukeHub) 
+
+This comprehensive course examines core and evolving concepts in the business fundamentals of successful technology-based companies including Business Plan Development & Strategies, Marketing, Product & Process Development processes, Intellectual Property, Accounting, Finance, and Operations. Students will learn the fundamentals essential to understanding all aspects of a business and will be able to converse in some depth in each of the areas studied upon completion. Other topics will include Supply Chain Management, Stage-Gate Development Cycles, Balances Scorecards, Blue Ocean Strategy, and Disruptive Technologies.
+===
+CPT and OPT
+ 
+Please visit the Duke Visa Services website for official instructions regarding requirements for Curricular Practical Training (CPT) and Optional Practical Training (OPT).  You may also contact Duke Visa Services at 919-681-8472. Questions about CPT, OPT, visas, and your eligibility/authorization to work in the United States should be directed to the Duke Visa Services Office.
+
+Below is some additional information that may be helpful as you prepare to apply for CPT or pre- or post-completion OPT.  This information is provided as general guidelines and does not imply that a visa, work authorization, or successful graduation are guaranteed under any circumstances.
+
+Differences Between CPT and OPT
+
+Curricular Practical Training (CPT) is any alternative work/study, internship, cooperative education, or other type of required internship or practicum that is offered by sponsoring employers through cooperative agreements with a school.  Students must apply for CPT and be authorized by the Designated School Official (DSO = Duke Visa Services’ International Student/Scholar Advisor) prior to participating in a CPT program that is an integral part of an established curriculum.
+
+Optional Practical Training (OPT) is a work authorization benefit for which eligible F-1 students may apply.  It may be used prior to or after completion of studies.  OPT taken prior to completion of studies is commonly referred to as “pre-completion OPT.”  Taken after completion of studies is called “post-completion OPT.”
+
+Curricular Practical Training (CPT)
+
+Requirements for CPT
+
+Students studying on an F-1 visa.
+Students have completed at least one academic year of study with the program.
+Students are interning in the US.
+Student’s internship must be related to their degree.
+Students must have the letter of employment in writing
+Letter of employment must contain specific starting and ending dates (not a range), the physical worksite address, name of supervisor and his/her contact information, salary, and a brief description of the employment
+CPT Application Process
+
+Read the Duke Visa Services CPT website thoroughly. Duke Visa Services recommends submitting your completed application materials at least 2 – 4 weeks before you are scheduled to begin work. Applications will be processed within 10 business days after all materials are received.
+
+First, enroll in the appropriate section of your program’s internship course during the term in which you will be working.
+
+Next, complete the electronic CPT application. You will need to enter the name and email address of someone who can provide an academic department recommendation. Enter the name and email address of the Student Records Coordinator – Cherie Creten and cherie.creten@duke.edu. The Student Records Coordinator will receive an email from Duke Visa Services requesting that they submit the academic department recommendation for the student.
+
+Send the Student Records Coordinator a copy of your job offer letter. Before they can submit the academic department recommendation, the Student Records Coordinator must verify the following information:
+
+The student is enrolled in the related internship course during the term in which they will be working
+The job applies to the program of study and is clearly related in the description
+Start and end dates are in the future and appropriate
+The number of hours the student will work per week
+Once the offer letter is reviewed and approved, the Student Records Coordinator will submit the academic department recommendation. Offer letters may be submitted to the Student Records Coordinator at cherie.creten@duke.edu.
+
+If you have questions regarding the CPT application process, you may email Krysta Byrd, a Duke Visa Services advisor that specializes in CPT,
+===
+Student Transfer Requests (All Programs)
+Student Transfer Requests (All Programs)
+
+Currently enrolled Duke Masters students may apply to transfer between the Pratt School of Engineering and Duke’s Graduate School. Please review the information below carefully.
+
+Deadlines:
+
+For Spring transfer: December 15
+
+For Fall transfer: May 15
+
+Transfer Process Overview – read this first!
+Pratt School of Engineering’s Masters Transfer Form – use to request transfer into Pratt’s MEMP or MEng programs, or between MEng disciplines
+Graduate School Transfer Form – use to request transfer into or between the Graduate School’s MS program(s)
+If you have credits to transfer from one program to another, including credits earned in your Duke BSE to the 4+1 program, use the form below.
+
+Pratt Credit Transfer Form (https://duke.app.box.com/s/mwt3r6008pbku6r05988p49u6f5xwh8h) – use to request that credit earned in a prior Duke Engineering program transfer to your new Duke Engineering program after the transfer process is complete.
+===
+Master of Engineering (MEng) and Master of Engineering Management (MEM) Students
+
+Audit Permission Form (https://duke.app.box.com/s/nxs3om5oi0fj2djtp70hzly1sya8yben)
+Course Withdrawal Form (https://duke.app.box.com/s/cgxufnsexdnswx0r6uln85m5yr35gzxj)
+Leave of Absence Form – Academic (https://duke.app.box.com/s/0uypoqev2sjp4aj7mtyz9f32w9sv82sa)
+Leave of Absence Form – Medical/Personal (https://duke.app.box.com/s/ww800o12gjo4i826txyxihcro6x0bjfc)
+Course Registration Permission Form (https://duke.app.box.com/s/f7nq1mlsc9o2kcrbgoa49xjn92x8qs8n)
+Program Withdrawal Form (https://duke.app.box.com/s/blc263ej454yabsetf68727daa8s1a2z)
+Readmission Application (https://duke.app.box.com/s/02pcpplrwhx5aspmsbvxccb46p2kg1ob)
+Treatment Provider Form – Medical Readmission (https://duke.app.box.com/s/gcikbh70j9yk8jyvji6l1kul8bg113y8)
+Undergraduate Course Permission Form – MEng and MEMP (https://duke.app.box.com/s/zv5t9caq1libqzzgalxbtatr3m5fih4h)
+===
+
+
+
+
