@@ -11,20 +11,20 @@ Find the top n chunks in the index that are most similar to the query.
 
 Parameters:
 query - query to match
-index - pinecone index to match (default is "gist")
+index - pinecone index to match (default is "duke-ai-meng-chatbot")
 top_k - number of chunks to return, default is 10
 
 Return:
 Dictionary of chunks and their similarity scores
 '''
-def get_similar_chunks(query, index="gist", top_k=10):
+def get_similar_chunks(query, index="duke-ai-meng-chatbot", top_k=3):
     # Load environment variables from .env file
     load_dotenv()
     # Import the Pinecone client library and connect to Pinecone
-    pc = Pinecone(api_key=os.environ.get["PINECONE_API_KEY"])
+    pc = Pinecone(api_key=os.environ.get("PINECONE_API_KEY"))
 
     # Get the index
-    index_name = "gist"
+    index_name = "duke-ai-meng-chatbot"
     index = pc.Index(index_name)
 
     # Query the index
@@ -35,7 +35,10 @@ def get_similar_chunks(query, index="gist", top_k=10):
         resultsdict = {}
         for i in results['matches']:
             resultsdict[i['metadata']['text']] = i['score']
-        return resultsdict
+            string = ''
+            for i in resultsdict.keys():
+                string += i + ' '
+        return string
     except Exception as e:
         print('Entered Error: ', e)
         return results

@@ -18,11 +18,11 @@ top_n - number of chunks to try and use
 Returns:
 Response from the LLM (string) 
 '''
-def connect_and_prompt_LLM_RAG(top_similarities, query, top_n=5):
+def connect_and_prompt_LLM_RAG(top_similarities, query, top_n=3):
     pass
 
 
-def connect_and_query_LLM(query):
+def connect_and_query_LLM(query, top_similarities):
     load_dotenv()
     API_URL = "https://jxwi0y7vmmxdev9v.us-east-1.aws.endpoints.huggingface.cloud"
     headers = {
@@ -30,18 +30,8 @@ def connect_and_query_LLM(query):
 	"Content-Type": "application/json" 
     }
     payload = {
-        "inputs": query
+        "inputs": f"Given this information about the Duke AI Meng program: {top_similarities}, please generate a very detailed response to the query: {query}. " #If the passed in information is not relevant, please say the exact phrase: `I don't know`. Check that the response actually addresses the query. If it does not, please try again."
     }
 
     response = requests.post(API_URL, headers=headers, json=payload)
     return response.json()
-
-if __name__ == "__main__":
-    input = {"context": "Duke University AI Masters of Engineering program has a 1-year track.", 
-             "question": "Can I complete the Duke University AI Masters of Engineering program in 1 year?"}
-    output = connect_and_query_LLM(
-        {
-            "inputs": f"given this context: {input['context']} and this question: {input['question']} what is the answer?"
-        }
-    )
-    print(output)
