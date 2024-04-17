@@ -1,4 +1,5 @@
 import os
+import time
 from flask import Flask, render_template, request, jsonify
 import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -19,6 +20,8 @@ def index():
                         This is a test output. This is a test output.This is a test output. This is a test output. This is a test output.
                         This is a test output. This is a test output. This is a test output. This is a test output. This is a test output.
                         '''
+            # Sleep for 5 seconds
+            time.sleep(1)
             # embedding = embed_query(query)
             # similar_chunks = get_similar_chunks(embedding)
             # try:

@@ -7,56 +7,94 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-    <div class="main-container">
-        <h1>Duke AIPI Chatbot</h1>
-        <div class="chat-container">
-            <div class="results-container" id="results-container">
-                <div class="loader" id="loader" style="display: none;"></div>
+    <div class="page-container">
+        <div class="main-container">
+            <h1>Duke AIPI Chatbot</h1>
+            <div class="chat-container" id="chatContainer">
+                <div class="results-container" id="results-container">
+                    <div class="loader" id="loader" style="display: none;"></div>
+                </div>
             </div>
-        </div>
-        <div class="input-container">
-            <textarea  type="text" id="queryInput" class="input-box" placeholder="Ask your question here..."></textarea>
-            <button id="submitButton" class="submit-button">
-                <i class="fa-solid fa-arrow-right"></i>
-            </button>
+            <div class="input-container">
+                <textarea  type="text" id="queryInput" class="textarea-box" placeholder="Ask your question here..."></textarea>
+                <button id="submitButton" class="submit-button">
+                    <i class="fa-solid fa-arrow-right"></i>
+                </button>
+            </div>
         </div>
     </div>
     <script>
-        document.getElementById('submitButton').onclick = function(e) {
-            e.preventDefault();
-            const query = document.getElementById('queryInput').value;
-            const resultsContainer = document.getElementById('results-container');
-            const loader = document.getElementById('loader');
-
-            loader.style.display = 'block';
-
-            fetch('/', {
-                method: 'POST',
-                body: JSON.stringify({query: query}),
-                headers: {'Content-Type': 'application/json'},
-            })
-            .then(response => response.json())
-            .then(data => {
-                const newResult = document.createElement('div');
-                newResult.classList.add('results');
-                newResult.innerHTML = `<p>${data.rag_output}</p>`;
-
-                resultsContainer.insertBefore(newResult, loader);
-
-                loader.style.display = 'none';
-            })
-            .catch(error => {
-                console.error('Error:', error);
-                const errorResult = document.createElement('div');
-                errorResult.classList.add('results');
-                errorResult.innerHTML = `<p>Error loading results.</p>`;
-
-                resultsContainer.insertBefore(errorResult, loader);
-                loader.style.display = 'none';
+        document.addEventListener('DOMContentLoaded', function() {
+            function appendMessage(content, className, isAI = false, isLoading = false) {
+                const container = document.createElement('div');
+                container.classList.add('message-container');
+        
+                if (isAI) {
+                    const img = document.createElement('img');
+                    img.src = "{{ url_for('static', filename='images/robot.png') }}";
+                    img.alt = 'AI';
+                    img.classList.add('avatar');
+                    container.appendChild(img);
+                }
+        
+                const message = document.createElement('div');
+                message.classList.add('message', className);
+                message.textContent = content;
+                container.appendChild(message);
+        
+                if (isLoading) {
+                    const loader = document.createElement('div');
+                    loader.classList.add('loader', 'loading-dots');
+                    message.appendChild(loader);  // Add loader inside the message content
+                }
+        
+                document.getElementById('chatContainer').appendChild(container);
+                return message;  // Return the message div for later use
+            }
+        
+            function handleSubmit() {
+                const queryInput = document.getElementById('queryInput');
+                const query = queryInput.value;
+                appendMessage(query, 'user-message'); // Display user query on the right
+        
+                // Append an empty API message with a loader
+                const loadingMessage = appendMessage("", 'api-response', true, true);
+        
+                fetch('/', {
+                    method: 'POST',
+                    body: JSON.stringify({query: query}),
+                    headers: {'Content-Type': 'application/json'},
+                })
+                .then(response => response.json())
+                .then(data => {
+                    loadingMessage.querySelector('.loading-dots').remove(); // Remove the loading dots from the message
+                    loadingMessage.textContent = data.rag_output; // Update message text with API response
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    loadingMessage.querySelector('.loading-dots').remove(); // Remove the loading dots
+                    loadingMessage.textContent = "Error loading results."; // Update message text with error
+                });
+        
+                queryInput.value = ''; // Clear the textarea after submit
+            }
+            
+            // Add default API greeting message
+            appendMessage("Hello! I am here to assist you!", 'api-response', true);
+        
+            // Event listeners for submit and enter key
+            document.getElementById('submitButton').onclick = function(e) {
+                e.preventDefault();
+                handleSubmit();
+            };
+        
+            document.getElementById('queryInput').addEventListener('keydown', function(event) {
+                if (event.key === 'Enter' && !event.shiftKey) {
+                    event.preventDefault();
+                    handleSubmit();
+                }
             });
-
-            document.getElementById('queryInput').value = '';
-        };
-    </script>
+        });
+    </script>        
 </body>
 </html>

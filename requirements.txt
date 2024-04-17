@@ -1,8 +1,13 @@
-pytest
 requests==2.31.0
-bs4
-python-dotenv==1.0.1
 sentence_transformers==2.7.0
-pinecone_client==3.2.2
+pinecone-client==3.2.2
 langchain==0.1.16
 flask==3.0.3
+beautifulsoup4==4.12.3
+bs4==0.0.2 
+huggingface-hub==0.22.2 
+numpy==1.26.4 
+python-dotenv==1.0.1 
+scikit-learn==1.4.2 
+sentence-transformers==2.7.0 
+transformers==4.39.3
