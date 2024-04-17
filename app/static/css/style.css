@@ -3,15 +3,15 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(180deg, #2A8FBD 0%, #144E68 100%);
+    background: linear-gradient(180deg, #41494d 0%, #1e2123 100%);
     color: #F5F5F5;
     height: 100vh;
 }
 
 /* Centering Container */
-.container {
-    width: 90%;
-    max-width: 600px;
+.main-container {
+    width: 70%;
+    max-width: 1000px;
     margin: auto;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.1);
@@ -21,6 +21,72 @@ body, html {
     border: 1px solid rgba(255, 255, 255, 0.18);
     margin-top: 50px;
     overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.chat-container {
+    width: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #a3feb1;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #b4b4b4;
+    background-color: #41494d;
+}
+
+.input-box {
+    flex-grow: 1;
+    margin-right: 10px;
+    padding: 0px;
+    padding-top: 18px;
+    font-size: 1rem;
+    font-family: sans-serif;
+    line-height: 1.25;
+    border: none;
+    background-color: #41494d;
+    color: #ffffff;
+    width: 100%;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    overflow: auto; 
+    scrollbar-width: none; /* for Firefox */
+}
+
+.input-box::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari, and Edge */
+}
+
+.submit-button {
+    background-color: #F5F5F5;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 15px;
+    max-height: 10%;
+}
+
+.submit-button:hover {
+    background-color: #959595;
 }
 
 .loader {
@@ -41,7 +107,7 @@ body, html {
 
 /* Typography */
 h1 {
-    color: #ffe658;
+    color: #ffffff;
     text-align: center;
     font-size: 2rem;
 }
@@ -52,38 +118,29 @@ h2 {
     margin-top: 20px;
 }
 
-/* Form Styling */
-form {
+.like-dislike-container {
     display: flex;
-    flex-direction: column;
-    gap: 15px;
+    gap: 10px;
+    flex-direction: row;
+    justify-content: right;
+    align-items: right;
 }
 
-input[type="text"], button {
-    padding: 10px;
-    border-radius: 5px;
-    border: 1px solid #ddd;
-    font-size: 1rem;
-}
-
-input[type="text"] {
-    background-color: #ffffff;
-    color: #333;
-}
-
-button {
-    background-color: #4CAF50; /* Green for action */
+.like-button, .dislike-button {
+    background-color: #39497b; 
     color: white;
     cursor: pointer;
     transition: background-color 0.3s;
-    width: 50%;
-    /* Center the button */
-    margin-left: auto;
-    margin-right: auto;
+    width: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
 }
 
-button:hover {
-    background-color: #2c7830;
+.like-button:hover, .dislike-button:hover {
+    background-color: #3f61ab;
 }
 
 /* Results Styling with Markdown Consideration */
@@ -139,6 +196,15 @@ button:hover {
     padding-left: 20px;
     font-style: italic;
     color: #cccccc;
+}
+
+.best-chunk {
+    background-color: #393939;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: -10px;
+    color: #d0d0d0;
+    order: -1;
 }
 
 /* Ensure the container can handle the dynamic content size */

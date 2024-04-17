@@ -14,12 +14,17 @@ def index():
         if request.is_json:
             data = request.get_json()
             query = data['query']
-            embedding = embed_query(query)
-            similar_chunks = get_similar_chunks(embedding)
-            try:
-                rag_output = connect_and_query_LLM(query, similar_chunks)
-            except Exception as e:
-                rag_output = f"An error occurred: {e}"
+            rag_output = '''
+                        This is a test output. This is a test output. This is a test output.  This is a test output. This is a test output. This is a test output.
+                        This is a test output. This is a test output.This is a test output. This is a test output. This is a test output.
+                        This is a test output. This is a test output. This is a test output. This is a test output. This is a test output.
+                        '''
+            # embedding = embed_query(query)
+            # similar_chunks = get_similar_chunks(embedding)
+            # try:
+            #     rag_output = connect_and_query_LLM(query, similar_chunks)
+            # except Exception as e:
+            #     rag_output = f"An error occurred: {e}"
             return jsonify({'rag_output': rag_output})
         else:
             # Handle non-AJAX POST request if necessary
