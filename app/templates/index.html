@@ -74,6 +74,7 @@
                 .then(data => {
                     loadingMessage.querySelector('.loading-dots').remove(); // Remove the loading dots from the message
                     loadingMessage.textContent = data.rag_output; // Update message text with API response
+                    console.log(data.response_time);
                     scrollToBottom();
                 })
                 .catch(error => {

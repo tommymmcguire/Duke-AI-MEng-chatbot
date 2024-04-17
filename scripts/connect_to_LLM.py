@@ -30,7 +30,7 @@ def connect_and_query_LLM(query, top_similarities):
 	"Content-Type": "application/json" 
     }
     payload = {
-         "inputs": { "instruction": f"Given the information about Duke's AI MEng program,please answer the following query in great detail, but succinct.",
+         "inputs": { "instruction": f"Given the information about Duke's AI MEng program,please answer the following query in great detail, but succinct. Don't respond with a numbered list.",
                    "query": f"INFORMATION: { top_similarities} QUERY: {query} "
                    }
 
