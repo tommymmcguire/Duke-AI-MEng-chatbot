@@ -1,3 +1,8 @@
 pytest
-requests
+requests==2.31.0
 bs4
+python-dotenv==1.0.1
+sentence_transformers==2.7.0
+pinecone_client==3.2.2
+langchain==0.1.16
+flask==3.0.3
