@@ -38,6 +38,7 @@
                     img.classList.add('avatar');
                     container.appendChild(img);
                 }
+                scrollToBottom();
         
                 const message = document.createElement('div');
                 message.classList.add('message', className);
@@ -51,6 +52,7 @@
                 }
         
                 document.getElementById('chatContainer').appendChild(container);
+                scrollToBottom();
                 return message;  // Return the message div for later use
             }
         
@@ -58,6 +60,7 @@
                 const queryInput = document.getElementById('queryInput');
                 const query = queryInput.value;
                 appendMessage(query, 'user-message'); // Display user query on the right
+                scrollToBottom();
         
                 // Append an empty API message with a loader
                 const loadingMessage = appendMessage("", 'api-response', true, true);
@@ -71,6 +74,7 @@
                 .then(data => {
                     loadingMessage.querySelector('.loading-dots').remove(); // Remove the loading dots from the message
                     loadingMessage.textContent = data.rag_output; // Update message text with API response
+                    scrollToBottom();
                 })
                 .catch(error => {
                     console.error('Error:', error);
@@ -79,10 +83,16 @@
                 });
         
                 queryInput.value = ''; // Clear the textarea after submit
+                scrollToBottom();
             }
             
             // Add default API greeting message
             appendMessage("Hello! I am here to assist you!", 'api-response', true);
+
+            function scrollToBottom() {
+                const chatContainer = document.getElementById('chatContainer');
+                chatContainer.scrollTop = chatContainer.scrollHeight;
+            }
         
             // Event listeners for submit and enter key
             document.getElementById('submitButton').onclick = function(e) {
