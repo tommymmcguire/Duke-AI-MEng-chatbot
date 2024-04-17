@@ -30,7 +30,11 @@ def connect_and_query_LLM(query, top_similarities):
 	"Content-Type": "application/json" 
     }
     payload = {
-        "inputs": f"Given this information about the Duke AI Meng program: {top_similarities}, please generate a very detailed response to the query: {query}. " #If the passed in information is not relevant, please say the exact phrase: `I don't know`. Check that the response actually addresses the query. If it does not, please try again."
+         "inputs": { "instruction": f"Given the information about Duke's AI MEng program,please answer the following query in great detail, but succinct.",
+                   "query": f"INFORMATION: { top_similarities} QUERY: {query} "
+                   }
+
+          #If the passed in information is not relevant, please say the exact phrase: `I don't know`. Check that the response actually addresses the query. If it does not, please try again."
     }
 
     response = requests.post(API_URL, headers=headers, json=payload)
