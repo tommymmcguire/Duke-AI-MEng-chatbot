@@ -4,6 +4,8 @@
     <img src="./data/Duke_University_seal.png" width="200">
 </p>
 
+[Video Walkthrough](https://www.youtube.com/watch?v=pRcYX3OSHdQ)
+
 ## Project Description
 This chatbot leverages a Mistral 7B large language model (LLM) that has been instruction fine-tuned to specifically address queries and provide detailed information about the Duke AIPI MEng Masters program. Utilizing the technique of Retrieval-Augmented Generation (RAG), the platform dynamically interacts with a comprehensive and curated corpus of the program's documentation. This advanced method allows the system to retrieve the most pertinent and current information from the corpus, augmenting the language model's responses to ensure they are both accurate and contextually relevant.
 
