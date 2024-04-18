@@ -13,12 +13,12 @@ This platform leverages a Mistral 7B large language model (LLM) that has been in
 This integration of fine-tuned language modeling with retrieval-augmented generation techniques ensures that users not only receive generalized answers but also responses that are deeply rooted in the specific factual content of the Duke AIPI MEng Masters program.
 
 
-#### Technical Details
+### Technical Details
 
-##### Large Language Model (LLM) - Mistral 7B
+#### Large Language Model (LLM) - Mistral 7B
 The Mistral 7B model is a type of transformer-based model that has been trained on a diverse range of internet text. For this project, the model has been instruction fine-tuned to handle question-answering and summarization tasks. Therefore, the model doesn't just generate text based on the input but understands and executes a range of instructed tasks, such as answering queries directly, summarizing information, or even comparing different aspects of the program. This makes the platform more intuitive and effective for users seeking specific information.
 
-##### Retrieval-Augmented Generation (RAG)
+#### Retrieval-Augmented Generation (RAG)
 Retrieval-Augmented Generation enhances the capabilities the language model by combining it with a retrieval system. In the platform, RAG involves the language model querying a retriever component that searches a pre-built corpus containing detailed information about the Duke AIPI MEng program. The retriever fetches the most relevant documents or snippets of information, which are then fed back into the language model. This combination allows the model to generate responses that are not only contextually aware but also deeply informed by the specific data contained in the program’s corpus.
 
 
