@@ -37,5 +37,64 @@ def connect_and_query_LLM(query, top_similarities):
           #If the passed in information is not relevant, please say the exact phrase: `I don't know`. Check that the response actually addresses the query. If it does not, please try again."
     }
 
-    response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
+    response = requests.post(API_URL, headers=headers, json=payload).json()
+    response["response"] = clean_response(response["response"])
+    return response
+
+
+def clean_response(response: str):
+    if '###' not in response:
+        answer = response
+        print('answer1: ', answer)
+    else:
+        response = None
+        output = None
+        explanation = None
+        # Get the first response, output, and explanation
+        l=[]
+        if len(response.split('###'))<=2:
+            l=response.split('###')
+        else:
+            l=response.split('###')[:-1]
+        # print(l)
+        for i in l:
+            if i.startswith(' Response') and response is None:
+                response = i
+            if i.startswith(' Output') and output is None:
+                output = i
+            if i.startswith(' Explanation') and explanation is None:
+                explanation = i
+
+        # Strip them all and remove the prefix
+        if response:
+            response = response.replace('Response:', '')
+            response = response.strip()
+        if output:
+            output = output.replace('Output:', '')
+            output = output.strip()
+        if explanation:
+            explanation = explanation.replace('Explanation:', '')
+            explanation = explanation.strip()
+
+        # Compare if they are the same string
+
+        # Create one long string to return
+        if answer == None:
+            answer = ''
+        if response == None:
+            response = ''
+        if output == None:
+            output = ''
+        if explanation == None:
+            explanation = ''
+        if response == explanation == output:
+            answer = response
+        elif response == output:
+            answer = output + ' ' + explanation
+        elif response == explanation:
+            answer = output + ' ' + explanation
+        elif output == explanation:
+            answer = output + ' ' + response
+        else:
+            answer = response + ' ' + output + ' ' + explanation
+    return answer
