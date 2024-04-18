@@ -8,7 +8,7 @@ def cosine_similarity(v1, v2):
     return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
 
 #function that returns answer if the cosine similarity is greater than 0.5
-def get_similar_chunks(query_embedding, top_n=3, threshold=0.95):
+def get_similar_chunks(query_embedding, top_n=3, threshold=0.87):
     with open('data/questions_embedded.jsonl', 'r') as file:
         similarities = {}
         for line in file:
@@ -29,7 +29,7 @@ def get_similar_chunks(query_embedding, top_n=3, threshold=0.95):
 
 if __name__ == "__main__":
     s_time = time.time()
-    query = "what is the tuition for the 12 month program"
+    query = "What are the prerequisites to applying to the program?"
     query_embedding = embed_query(query)
     top_similarity_scores = get_similar_chunks(query_embedding)
     print(top_similarity_scores)
