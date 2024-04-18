@@ -7,9 +7,6 @@ WORKDIR /app
 # Copy the app directory contents into the container at /app
 COPY . /app
 
-# Copy scripts into the container
-COPY scripts /app/scripts
-
 # Install any needed packages specified in requirements.txt
 # Assume requirements.txt is in the app folder; adjust if located elsewhere
 COPY requirements.txt /app
@@ -23,8 +20,8 @@ EXPOSE 5000
 # ENV HF_API_KEY
 
 # Define environment variable
-ENV FLASK_APP app/app.py
-ENV FLASK_RUN_HOST 0.0.0.0
+ENV FLASK_APP=app/app.py
+ENV FLASK_RUN_HOST=0.0.0.0
 
 # Run the application
 CMD ["flask", "run"]

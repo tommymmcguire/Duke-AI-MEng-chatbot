@@ -16,7 +16,7 @@ def index():
         if request.is_json:
             data = request.get_json()
             query = data['query']
-
+            response_time = -100
             # Check the cache for similar quieries
             top_cache_results = query_cache(query, threshold=0) # set threshold low to get all results
             if top_cache_results[0][1] > 0.95:
@@ -29,16 +29,21 @@ def index():
             try:
                 rag_output_dict = connect_and_query_LLM(query, similar_chunks)
                 if "error" in rag_output_dict.keys():
+                    print("Error in response, 503?")
                     rag_output = rag_output = "The model is warming up, please try again in a few minutes."
                     response_time = -1
                 else:
+                    print("Response received")
                     rag_output = rag_output_dict['response']
                     response_time = rag_output_dict['time']
             except Exception as e:  
+                print(f"An error occurred: {e}")
                 rag_output = f"An error occurred: {e}"
+                response_time = -3
 
             # Verify that the response is not empty
             if rag_output == "":
+                print("Empty response")
                 rag_output = top_cache_results[0][0]
                 response_time = -2
 
@@ -51,4 +56,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run(debug=True) 
+    app.run(host='0.0.0.0') 

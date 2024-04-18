@@ -36,6 +36,21 @@ def connect_and_query_LLM(query, top_similarities):
 
           #If the passed in information is not relevant, please say the exact phrase: `I don't know`. Check that the response actually addresses the query. If it does not, please try again."
     }
+    response = requests.post(API_URL, headers=headers, json=payload).json()
+    print("Raw response from LLM: \n")
+    print(response)
+    print("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
+    response["response"] = filter_response(response["response"])
+    return response
 
-    response = requests.post(API_URL, headers=headers, json=payload)
-    return response.json()
+
+def filter_response(response: str):
+    stripped = response.strip()
+    # See if a response is there, if so use it.     
+    split_result = (stripped.split('###'))     
+    if split_result[0].strip() != '':         
+        print('Response Found: ', split_result[0])         
+        return split_result[0].strip()     
+    else:         # Look for next ### and return that as the response         
+        print('Seconod Reponse: ', split_result[1].split(':', 1)[1])         
+        return split_result[1].split(':', 1)[1].strip()
