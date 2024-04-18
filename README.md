@@ -1,7 +1,11 @@
-# Duke AIPI MEng Masters Information Platform
+# Duke AI Master's RAG Chatbot
+
+<p align="center">
+    <img src="./data/Duke_University_seal.png" width="200">
+</p>
 
 ## Project Description
-This platform leverages a Mistral 7B large language model (LLM) that has been instruction fine-tuned to specifically address queries and provide detailed information about the Duke AIPI MEng Masters program. Utilizing the technique of Retrieval-Augmented Generation (RAG), the platform dynamically interacts with a comprehensive and curated corpus of the program's documentation. This advanced method allows the system to retrieve the most pertinent and current information from the corpus, augmenting the language model's responses to ensure they are both accurate and contextually relevant.
+This chatbot leverages a Mistral 7B large language model (LLM) that has been instruction fine-tuned to specifically address queries and provide detailed information about the Duke AIPI MEng Masters program. Utilizing the technique of Retrieval-Augmented Generation (RAG), the platform dynamically interacts with a comprehensive and curated corpus of the program's documentation. This advanced method allows the system to retrieve the most pertinent and current information from the corpus, augmenting the language model's responses to ensure they are both accurate and contextually relevant.
 
 ### How It Works
 
@@ -24,21 +28,36 @@ Retrieval-Augmented Generation enhances the capabilities the language model by c
 
 ## Getting Started
 
-### Installation - Steps to Run this Locally
+## To Run
 
-Clone the repository to your local machine:
-```
-git clone https://github.com/tommymmcguire/Duke-AI-MEng-chatbot.git
-```
-```
-cd DUKE-RAG
-```
+The run the application locally, follow these steps:
+1. Clone the repository to your local machine.
+2. Create a virtual python environment using `python -m venv venv`.
+3. Activate the virtual environment using `source venv/bin/activate` for mac/linux or `venv\Scripts\activate` for windows.
+4. Install the project requirements using `pip install -r requirements.txt`.
+5. Run the application from the root directory using `python .src/app/app.py`.
 
-Install the required Python libraries:
+## Project Structure
+
 ```
-make install
-```
-OR
-```
-pip install -r requirements.txt
+├── .devcontainer
+├── .github
+├── data
+├── models
+├── app
+│   ├── app.py
+│   ├── static
+│   │   ├── css
+│   │   ├── images
+├── data
+├── notebooks
+├── scripts
+├── main.py
+├── .gitignore
+├── .dockerignore
+├── Dockerfile
+├── Makefile
+├── README.md
+├── requirements.txt
+├── setup.sh
 ```
