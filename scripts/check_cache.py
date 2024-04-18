@@ -1,5 +1,8 @@
 import numpy as np
-from embed_query import embed_query
+import os
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from scripts.embed_query import embed_query
 import json
 import time
 
@@ -17,7 +20,7 @@ def get_similar_chunks(query_embedding, top_n=3, threshold=0.95):
             embedding = data['embedding']
             answer = data['answer']
             similarity = cosine_similarity(query_embedding, embedding)
-            similarities[(question,answer)] = similarity
+            similarities[answer] = similarity
         # get top n answers with the highest similarity above the threshold as a list
         top_similarities = []
         for answer, similarity in sorted(similarities.items(), key=lambda x: x[1], reverse=True):
@@ -27,12 +30,9 @@ def get_similar_chunks(query_embedding, top_n=3, threshold=0.95):
                 break
         return top_similarities
 
-if __name__ == "__main__":
-    s_time = time.time()
-    query = "what is the tuition for the 12 month program"
+def query_cache(query, threshold=0.95):
     query_embedding = embed_query(query)
-    top_similarity_scores = get_similar_chunks(query_embedding)
-    print(top_similarity_scores)
-    print(f"Time taken: {time.time() - s_time}")
+    top_similarity_scores = get_similar_chunks(query_embedding, top_n=1, threshold=threshold)
+    return top_similarity_scores
 
     

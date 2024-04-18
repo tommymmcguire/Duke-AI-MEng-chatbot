@@ -11,3 +11,4 @@ python-dotenv==1.0.1
 scikit-learn==1.4.2 
 sentence-transformers==2.7.0 
 transformers==4.39.3
+openai==1.21.0
