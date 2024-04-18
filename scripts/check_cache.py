@@ -31,8 +31,7 @@ if __name__ == "__main__":
     s_time = time.time()
     query = "What are the prerequisites to applying to the program?"
     query_embedding = embed_query(query)
-    top_similarity_scores = get_similar_chunks(query_embedding)
-    print(top_similarity_scores)
-    print(f"Time taken: {time.time() - s_time}")
+    top_similarity_scores = get_similar_chunks(query_embedding, top_n=1, threshold=threshold)
+    return top_similarity_scores
 
     

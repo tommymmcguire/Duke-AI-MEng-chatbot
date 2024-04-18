@@ -70,15 +70,16 @@ class PineconeIntegration:
             batch = embeddings[i:i + batch_size]
             index.upsert(vectors=batch)
 
-# Load chunks 
-all_chunks = []
+if __name__ == "__main__":
+    # Load chunks 
+    all_chunks = []
 
-# Create an instance of the Embedder and embed the text chunks.
-# The default embedding model is avsolatorio/GIST-Embedding-v0, if you want to use a different model, specify the model name in the Embedder constructor.
-embedder = Embedder()
-chunk_embeddings = embedder.embed_text_chunks(all_chunks)
+    # Create an instance of the Embedder and embed the text chunks.
+    # The default embedding model is avsolatorio/GIST-Embedding-v0, if you want to use a different model, specify the model name in the Embedder constructor.
+    embedder = Embedder()
+    chunk_embeddings = embedder.embed_text_chunks(all_chunks)
 
-pinecone_integration = PineconeIntegration()
-pinecone_integration.create_index()
-formatted_embeddings = pinecone_integration.format_embeddings(chunk_embeddings, all_chunks)
-pinecone_integration.upload_embeddings('gist-embedding', formatted_embeddings)
+    pinecone_integration = PineconeIntegration()
+    pinecone_integration.create_index()
+    formatted_embeddings = pinecone_integration.format_embeddings(chunk_embeddings, all_chunks)
+    pinecone_integration.upload_embeddings('gist-embedding', formatted_embeddings)

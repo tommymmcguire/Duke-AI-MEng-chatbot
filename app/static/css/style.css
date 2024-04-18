@@ -1,0 +1,222 @@
+/* Base Styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #F5F5F5;
+}
+
+.page-container {
+    width: 100%;
+    background: linear-gradient(180deg, #003087 0%, #41494d 100%);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-container {
+    width: 70%;
+    max-width: 1000px;
+    min-height: 80vh; 
+    max-height: 80vh;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    overflow-y: auto;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-container::-webkit-scrollbar {
+    display: none; 
+}
+
+/* Hide scrollbar for Firefox */
+.main-container {
+    scrollbar-width: none; 
+}
+
+/* Styling the scrollbar itself */
+.chat-container::-webkit-scrollbar {
+    width: 8px; /* Adjust the width of the scrollbar */
+    background-color: transparent; /* Clear background */
+}
+
+/* Styling the draggable part of the scrollbar */
+.chat-container::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    border-radius: 4px; /* Rounded corners */
+    border: 2px solid transparent; /* Optional: can adjust or remove */
+    background-clip: padding-box; /* Ensures transparency doesn't affect the border */
+}
+
+/* Optional: Styling the track (part the thumb slides within) */
+.chat-container::-webkit-scrollbar-track {
+    background-color: transparent; /* Clear/transparent track */
+}
+
+.title-and-chat-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 20px;
+    overflow-y: auto;
+}
+
+.chat-container {
+    width: 100%;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.message-container {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end; /* For user messages */
+}
+
+.message {
+    max-width: 60%;
+    min-width: 5%;
+    padding: 10px;  
+    margin-bottom: 10px;
+    border-radius: 10px;
+    position: relative; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+}
+
+.avatar {
+    width: 30px; 
+    height: 30px;
+    margin-right: 10px;
+}
+
+.user-message {
+    margin-left: auto;
+    background-color: #0071fb; 
+    color: #fff;
+    margin-right: 10px;
+}
+
+.api-response {
+    margin-right: auto;
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.input-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #b4b4b4;
+    background-color: #41494d;
+}
+
+.textarea-box {
+    flex-grow: 1;
+    margin-right: 10px;
+    padding: 0px;
+    padding-top: 18px;
+    font-size: 1rem;
+    font-family: sans-serif;
+    line-height: 1.25;
+    border: none;
+    background-color: #41494d;
+    color: #ffffff;
+    width: 100%;
+    box-sizing: border-box;
+    outline: none;
+    resize: none;
+    overflow: auto; 
+    scrollbar-width: none; /* for Firefox */
+}
+
+.textarea-box::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Chrome, Safari, and Edge */
+}
+
+.submit-button {
+    background-color: #F5F5F5;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 20px;
+    max-height: 10%;
+}
+
+.submit-button:hover {
+    background-color: #d9d9d9;
+}
+
+.loader {
+    width: 8px;
+    height: 8px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    animation: l5 1s infinite linear alternate;
+  }
+  @keyframes l5 {
+      0%  {box-shadow: 20px 0 #000, -20px 0 #0002;background: #000 }
+      33% {box-shadow: 20px 0 #000, -20px 0 #0002;background: #0002}
+      66% {box-shadow: 20px 0 #0002,-20px 0 #000; background: #0002}
+      100%{box-shadow: 20px 0 #0002,-20px 0 #000; background: #000 }
+  }
+
+
+/* Typography */
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 2rem;
+}
+
+
+
+/* Results Styling with Markdown Consideration */
+.results {
+    background-color: rgba(0, 0, 0, 0.5); /* Slightly transparent */
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    text-align: left; /* Align text to left for markdown content */
+    color: #E0E0E0; /* Light text for readability */
+}
+
+.container {
+    min-height: 100px; /* Minimum height */
+    max-height: 80vh; /* Maximum height before scrolling */
+    overflow-y: auto; /* Allow scrolling for overflow content */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 95%;
+        margin-top: 20px;
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+}
