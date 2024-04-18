@@ -19,8 +19,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 5000
 
 # Envs
-ENV PINECONE_API_KEY '452a8f55-60c0-4f38-8cc8-7b24a7d4e3cd'
-ENV HF_API_KEY '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'
+# ENV PINECONE_API_KEY 
+# ENV HF_API_KEY
 
 # Define environment variable
 ENV FLASK_APP app/app.py
